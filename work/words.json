@@ -1,0 +1,1534 @@
+{
+ "words": [
+  {
+   "chunk": 0,
+   "i": 0,
+   "text": "The",
+   "n": "the",
+   "s": 0.1,
+   "e": 0.2
+  },
+  {
+   "chunk": 0,
+   "i": 1,
+   "text": "fizz",
+   "n": "fizz",
+   "s": 0.2,
+   "e": 0.68
+  },
+  {
+   "chunk": 0,
+   "i": 2,
+   "text": "in",
+   "n": "in",
+   "s": 0.68,
+   "e": 0.79
+  },
+  {
+   "chunk": 0,
+   "i": 3,
+   "text": "your",
+   "n": "your",
+   "s": 0.79,
+   "e": 0.92
+  },
+  {
+   "chunk": 0,
+   "i": 4,
+   "text": "soda",
+   "n": "soda",
+   "s": 0.92,
+   "e": 1.3
+  },
+  {
+   "chunk": 0,
+   "i": 5,
+   "text": "isn't",
+   "n": "isn't",
+   "s": 1.46,
+   "e": 1.74
+  },
+  {
+   "chunk": 0,
+   "i": 6,
+   "text": "the",
+   "n": "the",
+   "s": 1.74,
+   "e": 1.81
+  },
+  {
+   "chunk": 0,
+   "i": 7,
+   "text": "bubbles.",
+   "n": "bubbles",
+   "s": 1.81,
+   "e": 2.37
+  },
+  {
+   "chunk": 0,
+   "i": 8,
+   "text": "It's",
+   "n": "it's",
+   "s": 2.55,
+   "e": 2.86
+  },
+  {
+   "chunk": 0,
+   "i": 9,
+   "text": "acid.",
+   "n": "acid",
+   "s": 2.86,
+   "e": 3.59
+  },
+  {
+   "chunk": 1,
+   "i": 0,
+   "text": "Everyone",
+   "n": "everyone",
+   "s": 4.23,
+   "e": 4.52
+  },
+  {
+   "chunk": 1,
+   "i": 1,
+   "text": "thinks",
+   "n": "thinks",
+   "s": 4.52,
+   "e": 4.73
+  },
+  {
+   "chunk": 1,
+   "i": 2,
+   "text": "that",
+   "n": "that",
+   "s": 4.73,
+   "e": 4.89
+  },
+  {
+   "chunk": 1,
+   "i": 3,
+   "text": "sharp",
+   "n": "sharp",
+   "s": 4.89,
+   "e": 5.35
+  },
+  {
+   "chunk": 1,
+   "i": 4,
+   "text": "bite",
+   "n": "bite",
+   "s": 5.35,
+   "e": 5.59
+  },
+  {
+   "chunk": 1,
+   "i": 5,
+   "text": "is",
+   "n": "is",
+   "s": 5.59,
+   "e": 5.73
+  },
+  {
+   "chunk": 1,
+   "i": 6,
+   "text": "tiny",
+   "n": "tiny",
+   "s": 5.73,
+   "e": 6.26
+  },
+  {
+   "chunk": 1,
+   "i": 7,
+   "text": "bubbles",
+   "n": "bubbles",
+   "s": 6.26,
+   "e": 6.61
+  },
+  {
+   "chunk": 1,
+   "i": 8,
+   "text": "popping",
+   "n": "popping",
+   "s": 6.61,
+   "e": 6.93
+  },
+  {
+   "chunk": 1,
+   "i": 9,
+   "text": "on",
+   "n": "on",
+   "s": 6.93,
+   "e": 6.99
+  },
+  {
+   "chunk": 1,
+   "i": 10,
+   "text": "your",
+   "n": "your",
+   "s": 6.99,
+   "e": 7.08
+  },
+  {
+   "chunk": 1,
+   "i": 11,
+   "text": "tongue.",
+   "n": "tongue",
+   "s": 7.08,
+   "e": 7.41
+  },
+  {
+   "chunk": 2,
+   "i": 0,
+   "text": "Nope.",
+   "n": "nope",
+   "s": 7.69,
+   "e": 8.18
+  },
+  {
+   "chunk": 2,
+   "i": 1,
+   "text": "Scientists",
+   "n": "scientists",
+   "s": 8.48,
+   "e": 9.02
+  },
+  {
+   "chunk": 2,
+   "i": 2,
+   "text": "sat",
+   "n": "sat",
+   "s": 9.02,
+   "e": 9.24
+  },
+  {
+   "chunk": 2,
+   "i": 3,
+   "text": "people",
+   "n": "people",
+   "s": 9.24,
+   "e": 9.52
+  },
+  {
+   "chunk": 2,
+   "i": 4,
+   "text": "in",
+   "n": "in",
+   "s": 9.52,
+   "e": 9.62
+  },
+  {
+   "chunk": 2,
+   "i": 5,
+   "text": "a",
+   "n": "a",
+   "s": 9.62,
+   "e": 9.66
+  },
+  {
+   "chunk": 2,
+   "i": 6,
+   "text": "pressure",
+   "n": "pressure",
+   "s": 9.66,
+   "e": 10.16
+  },
+  {
+   "chunk": 2,
+   "i": 7,
+   "text": "chamber",
+   "n": "chamber",
+   "s": 10.16,
+   "e": 10.54
+  },
+  {
+   "chunk": 2,
+   "i": 8,
+   "text": "where",
+   "n": "where",
+   "s": 10.54,
+   "e": 10.85
+  },
+  {
+   "chunk": 2,
+   "i": 9,
+   "text": "bubbles",
+   "n": "bubbles",
+   "s": 10.85,
+   "e": 11.2
+  },
+  {
+   "chunk": 2,
+   "i": 10,
+   "text": "physically",
+   "n": "physically",
+   "s": 11.2,
+   "e": 11.75
+  },
+  {
+   "chunk": 2,
+   "i": 11,
+   "text": "can't",
+   "n": "can't",
+   "s": 11.75,
+   "e": 12.02
+  },
+  {
+   "chunk": 2,
+   "i": 12,
+   "text": "form.",
+   "n": "form",
+   "s": 12.02,
+   "e": 12.38
+  },
+  {
+   "chunk": 3,
+   "i": 0,
+   "text": "Same",
+   "n": "same",
+   "s": 12.75,
+   "e": 13.07
+  },
+  {
+   "chunk": 3,
+   "i": 1,
+   "text": "fizz.",
+   "n": "fizz",
+   "s": 13.07,
+   "e": 13.43
+  },
+  {
+   "chunk": 3,
+   "i": 2,
+   "text": "Basically",
+   "n": "basically",
+   "s": 13.43,
+   "e": 14.15
+  },
+  {
+   "chunk": 3,
+   "i": 3,
+   "text": "the",
+   "n": "the",
+   "s": 14.15,
+   "e": 14.22
+  },
+  {
+   "chunk": 3,
+   "i": 4,
+   "text": "same",
+   "n": "same",
+   "s": 14.22,
+   "e": 14.46
+  },
+  {
+   "chunk": 3,
+   "i": 5,
+   "text": "bite.",
+   "n": "bite",
+   "s": 14.46,
+   "e": 14.99
+  },
+  {
+   "chunk": 3,
+   "i": 6,
+   "text": "Zero",
+   "n": "zero",
+   "s": 14.99,
+   "e": 15.49
+  },
+  {
+   "chunk": 3,
+   "i": 7,
+   "text": "bubbles.",
+   "n": "bubbles",
+   "s": 15.49,
+   "e": 15.98
+  },
+  {
+   "chunk": 4,
+   "i": 0,
+   "text": "So",
+   "n": "so",
+   "s": 16.53,
+   "e": 16.71
+  },
+  {
+   "chunk": 4,
+   "i": 1,
+   "text": "what",
+   "n": "what",
+   "s": 16.71,
+   "e": 17.01
+  },
+  {
+   "chunk": 4,
+   "i": 2,
+   "text": "are",
+   "n": "are",
+   "s": 17.01,
+   "e": 17.04
+  },
+  {
+   "chunk": 4,
+   "i": 3,
+   "text": "you",
+   "n": "you",
+   "s": 17.04,
+   "e": 17.17
+  },
+  {
+   "chunk": 4,
+   "i": 4,
+   "text": "actually",
+   "n": "actually",
+   "s": 17.17,
+   "e": 17.53
+  },
+  {
+   "chunk": 4,
+   "i": 5,
+   "text": "feeling?",
+   "n": "feeling",
+   "s": 17.53,
+   "e": 17.93
+  },
+  {
+   "chunk": 4,
+   "i": 6,
+   "text": "Here's",
+   "n": "here's",
+   "s": 18.37,
+   "e": 18.6
+  },
+  {
+   "chunk": 4,
+   "i": 7,
+   "text": "the",
+   "n": "the",
+   "s": 18.6,
+   "e": 18.75
+  },
+  {
+   "chunk": 4,
+   "i": 8,
+   "text": "insane",
+   "n": "insane",
+   "s": 18.75,
+   "e": 19.43
+  },
+  {
+   "chunk": 4,
+   "i": 9,
+   "text": "part.",
+   "n": "part",
+   "s": 19.43,
+   "e": 19.78
+  },
+  {
+   "chunk": 5,
+   "i": 0,
+   "text": "Your",
+   "n": "your",
+   "s": 20.23,
+   "e": 20.37
+  },
+  {
+   "chunk": 5,
+   "i": 1,
+   "text": "tongue",
+   "n": "tongue",
+   "s": 20.37,
+   "e": 20.71
+  },
+  {
+   "chunk": 5,
+   "i": 2,
+   "text": "is",
+   "n": "is",
+   "s": 20.71,
+   "e": 20.82
+  },
+  {
+   "chunk": 5,
+   "i": 3,
+   "text": "coated",
+   "n": "coated",
+   "s": 20.82,
+   "e": 21.11
+  },
+  {
+   "chunk": 5,
+   "i": 4,
+   "text": "with",
+   "n": "with",
+   "s": 21.11,
+   "e": 21.24
+  },
+  {
+   "chunk": 5,
+   "i": 5,
+   "text": "an",
+   "n": "an",
+   "s": 21.24,
+   "e": 21.32
+  },
+  {
+   "chunk": 5,
+   "i": 6,
+   "text": "enzyme",
+   "n": "enzyme",
+   "s": 21.32,
+   "e": 21.77
+  },
+  {
+   "chunk": 5,
+   "i": 7,
+   "text": "called",
+   "n": "called",
+   "s": 21.77,
+   "e": 21.97
+  },
+  {
+   "chunk": 5,
+   "i": 8,
+   "text": "carbonic",
+   "n": "carbonic",
+   "s": 21.97,
+   "e": 22.62
+  },
+  {
+   "chunk": 5,
+   "i": 9,
+   "text": "anhydrase.",
+   "n": "anhydrase",
+   "s": 22.62,
+   "e": 23.52
+  },
+  {
+   "chunk": 6,
+   "i": 0,
+   "text": "It",
+   "n": "it",
+   "s": 23.93,
+   "e": 24.04
+  },
+  {
+   "chunk": 6,
+   "i": 1,
+   "text": "grabs",
+   "n": "grabs",
+   "s": 24.04,
+   "e": 24.41
+  },
+  {
+   "chunk": 6,
+   "i": 2,
+   "text": "the",
+   "n": "the",
+   "s": 24.41,
+   "e": 24.48
+  },
+  {
+   "chunk": 6,
+   "i": 3,
+   "text": "carbon",
+   "n": "carbon",
+   "s": 24.48,
+   "e": 24.78
+  },
+  {
+   "chunk": 6,
+   "i": 4,
+   "text": "dioxide",
+   "n": "dioxide",
+   "s": 24.78,
+   "e": 25.23
+  },
+  {
+   "chunk": 6,
+   "i": 5,
+   "text": "dissolved",
+   "n": "dissolved",
+   "s": 25.23,
+   "e": 25.56
+  },
+  {
+   "chunk": 6,
+   "i": 6,
+   "text": "in",
+   "n": "in",
+   "s": 25.56,
+   "e": 25.63
+  },
+  {
+   "chunk": 6,
+   "i": 7,
+   "text": "your",
+   "n": "your",
+   "s": 25.63,
+   "e": 25.74
+  },
+  {
+   "chunk": 6,
+   "i": 8,
+   "text": "drink",
+   "n": "drink",
+   "s": 25.74,
+   "e": 25.99
+  },
+  {
+   "chunk": 6,
+   "i": 9,
+   "text": "and",
+   "n": "and",
+   "s": 25.99,
+   "e": 26.13
+  },
+  {
+   "chunk": 6,
+   "i": 10,
+   "text": "snaps",
+   "n": "snaps",
+   "s": 26.13,
+   "e": 26.67
+  },
+  {
+   "chunk": 6,
+   "i": 11,
+   "text": "it",
+   "n": "it",
+   "s": 26.67,
+   "e": 26.75
+  },
+  {
+   "chunk": 6,
+   "i": 12,
+   "text": "into",
+   "n": "into",
+   "s": 26.75,
+   "e": 26.91
+  },
+  {
+   "chunk": 6,
+   "i": 13,
+   "text": "carbonic",
+   "n": "carbonic",
+   "s": 26.91,
+   "e": 27.44
+  },
+  {
+   "chunk": 6,
+   "i": 14,
+   "text": "acid,",
+   "n": "acid",
+   "s": 27.44,
+   "e": 28.26
+  },
+  {
+   "chunk": 6,
+   "i": 15,
+   "text": "almost",
+   "n": "almost",
+   "s": 28.26,
+   "e": 28.56
+  },
+  {
+   "chunk": 6,
+   "i": 16,
+   "text": "instantly.",
+   "n": "instantly",
+   "s": 28.56,
+   "e": 29.18
+  },
+  {
+   "chunk": 7,
+   "i": 0,
+   "text": "That",
+   "n": "that",
+   "s": 29.55,
+   "e": 29.79
+  },
+  {
+   "chunk": 7,
+   "i": 1,
+   "text": "acid",
+   "n": "acid",
+   "s": 29.79,
+   "e": 30.15
+  },
+  {
+   "chunk": 7,
+   "i": 2,
+   "text": "lights",
+   "n": "lights",
+   "s": 30.15,
+   "e": 30.5
+  },
+  {
+   "chunk": 7,
+   "i": 3,
+   "text": "up",
+   "n": "up",
+   "s": 30.5,
+   "e": 30.62
+  },
+  {
+   "chunk": 7,
+   "i": 4,
+   "text": "your",
+   "n": "your",
+   "s": 30.62,
+   "e": 30.71
+  },
+  {
+   "chunk": 7,
+   "i": 5,
+   "text": "sour",
+   "n": "sour",
+   "s": 30.71,
+   "e": 31.13
+  },
+  {
+   "chunk": 7,
+   "i": 6,
+   "text": "taste",
+   "n": "taste",
+   "s": 31.13,
+   "e": 31.42
+  },
+  {
+   "chunk": 7,
+   "i": 7,
+   "text": "cells,",
+   "n": "cells",
+   "s": 31.42,
+   "e": 31.71
+  },
+  {
+   "chunk": 7,
+   "i": 8,
+   "text": "and",
+   "n": "and",
+   "s": 31.88,
+   "e": 32.06
+  },
+  {
+   "chunk": 7,
+   "i": 9,
+   "text": "it",
+   "n": "it",
+   "s": 32.06,
+   "e": 32.13
+  },
+  {
+   "chunk": 7,
+   "i": 10,
+   "text": "pokes",
+   "n": "pokes",
+   "s": 32.13,
+   "e": 32.58
+  },
+  {
+   "chunk": 7,
+   "i": 11,
+   "text": "your",
+   "n": "your",
+   "s": 32.58,
+   "e": 32.68
+  },
+  {
+   "chunk": 7,
+   "i": 12,
+   "text": "pain",
+   "n": "pain",
+   "s": 32.68,
+   "e": 33.04
+  },
+  {
+   "chunk": 7,
+   "i": 13,
+   "text": "nerves",
+   "n": "nerves",
+   "s": 33.04,
+   "e": 33.34
+  },
+  {
+   "chunk": 7,
+   "i": 14,
+   "text": "too.",
+   "n": "too",
+   "s": 33.34,
+   "e": 33.68
+  },
+  {
+   "chunk": 8,
+   "i": 0,
+   "text": "So",
+   "n": "so",
+   "s": 34.15,
+   "e": 34.36
+  },
+  {
+   "chunk": 8,
+   "i": 1,
+   "text": "the",
+   "n": "the",
+   "s": 34.36,
+   "e": 34.46
+  },
+  {
+   "chunk": 8,
+   "i": 2,
+   "text": "fizz",
+   "n": "fizz",
+   "s": 34.46,
+   "e": 34.78
+  },
+  {
+   "chunk": 8,
+   "i": 3,
+   "text": "is",
+   "n": "is",
+   "s": 34.78,
+   "e": 34.93
+  },
+  {
+   "chunk": 8,
+   "i": 4,
+   "text": "literally",
+   "n": "literally",
+   "s": 34.93,
+   "e": 35.37
+  },
+  {
+   "chunk": 8,
+   "i": 5,
+   "text": "your",
+   "n": "your",
+   "s": 35.37,
+   "e": 35.5
+  },
+  {
+   "chunk": 8,
+   "i": 6,
+   "text": "mouth",
+   "n": "mouth",
+   "s": 35.5,
+   "e": 35.8
+  },
+  {
+   "chunk": 8,
+   "i": 7,
+   "text": "making",
+   "n": "making",
+   "s": 35.8,
+   "e": 36.33
+  },
+  {
+   "chunk": 8,
+   "i": 8,
+   "text": "acid,",
+   "n": "acid",
+   "s": 36.33,
+   "e": 36.81
+  },
+  {
+   "chunk": 8,
+   "i": 9,
+   "text": "then",
+   "n": "then",
+   "s": 37.03,
+   "e": 37.24
+  },
+  {
+   "chunk": 8,
+   "i": 10,
+   "text": "hurting",
+   "n": "hurting",
+   "s": 37.24,
+   "e": 37.76
+  },
+  {
+   "chunk": 8,
+   "i": 11,
+   "text": "itself",
+   "n": "itself",
+   "s": 37.76,
+   "e": 38.12
+  },
+  {
+   "chunk": 8,
+   "i": 12,
+   "text": "with",
+   "n": "with",
+   "s": 38.12,
+   "e": 38.24
+  },
+  {
+   "chunk": 8,
+   "i": 13,
+   "text": "it.",
+   "n": "it",
+   "s": 38.24,
+   "e": 38.4
+  },
+  {
+   "chunk": 9,
+   "i": 0,
+   "text": "But",
+   "n": "but",
+   "s": 38.93,
+   "e": 39.21
+  },
+  {
+   "chunk": 9,
+   "i": 1,
+   "text": "it",
+   "n": "it",
+   "s": 39.21,
+   "e": 39.31
+  },
+  {
+   "chunk": 9,
+   "i": 2,
+   "text": "gets",
+   "n": "gets",
+   "s": 39.31,
+   "e": 39.49
+  },
+  {
+   "chunk": 9,
+   "i": 3,
+   "text": "weirder.",
+   "n": "weirder",
+   "s": 39.49,
+   "e": 39.86
+  },
+  {
+   "chunk": 10,
+   "i": 0,
+   "text": "Mountain",
+   "n": "mountain",
+   "s": 40.38,
+   "e": 40.64
+  },
+  {
+   "chunk": 10,
+   "i": 1,
+   "text": "climbers",
+   "n": "climbers",
+   "s": 40.64,
+   "e": 40.97
+  },
+  {
+   "chunk": 10,
+   "i": 2,
+   "text": "take",
+   "n": "take",
+   "s": 40.97,
+   "e": 41.13
+  },
+  {
+   "chunk": 10,
+   "i": 3,
+   "text": "a",
+   "n": "a",
+   "s": 41.13,
+   "e": 41.18
+  },
+  {
+   "chunk": 10,
+   "i": 4,
+   "text": "pill",
+   "n": "pill",
+   "s": 41.18,
+   "e": 41.41
+  },
+  {
+   "chunk": 10,
+   "i": 5,
+   "text": "for",
+   "n": "for",
+   "s": 41.41,
+   "e": 41.56
+  },
+  {
+   "chunk": 10,
+   "i": 6,
+   "text": "altitude",
+   "n": "altitude",
+   "s": 41.56,
+   "e": 42.0
+  },
+  {
+   "chunk": 10,
+   "i": 7,
+   "text": "sickness",
+   "n": "sickness",
+   "s": 42.0,
+   "e": 42.35
+  },
+  {
+   "chunk": 10,
+   "i": 8,
+   "text": "that",
+   "n": "that",
+   "s": 42.35,
+   "e": 42.46
+  },
+  {
+   "chunk": 10,
+   "i": 9,
+   "text": "blocks",
+   "n": "blocks",
+   "s": 42.46,
+   "e": 42.71
+  },
+  {
+   "chunk": 10,
+   "i": 10,
+   "text": "that",
+   "n": "that",
+   "s": 42.71,
+   "e": 42.9
+  },
+  {
+   "chunk": 10,
+   "i": 11,
+   "text": "exact",
+   "n": "exact",
+   "s": 42.9,
+   "e": 43.47
+  },
+  {
+   "chunk": 10,
+   "i": 12,
+   "text": "enzyme.",
+   "n": "enzyme",
+   "s": 43.47,
+   "e": 43.89
+  },
+  {
+   "chunk": 11,
+   "i": 0,
+   "text": "And",
+   "n": "and",
+   "s": 44.2,
+   "e": 44.35
+  },
+  {
+   "chunk": 11,
+   "i": 1,
+   "text": "suddenly",
+   "n": "suddenly",
+   "s": 44.35,
+   "e": 44.73
+  },
+  {
+   "chunk": 11,
+   "i": 2,
+   "text": "soda,",
+   "n": "soda",
+   "s": 44.73,
+   "e": 45.25
+  },
+  {
+   "chunk": 11,
+   "i": 3,
+   "text": "beer,",
+   "n": "beer",
+   "s": 45.44,
+   "e": 45.98
+  },
+  {
+   "chunk": 11,
+   "i": 4,
+   "text": "even",
+   "n": "even",
+   "s": 45.98,
+   "e": 46.23
+  },
+  {
+   "chunk": 11,
+   "i": 5,
+   "text": "champagne",
+   "n": "champagne",
+   "s": 46.23,
+   "e": 46.81
+  },
+  {
+   "chunk": 11,
+   "i": 6,
+   "text": "taste",
+   "n": "taste",
+   "s": 46.81,
+   "e": 47.12
+  },
+  {
+   "chunk": 11,
+   "i": 7,
+   "text": "flat.",
+   "n": "flat",
+   "s": 47.12,
+   "e": 47.61
+  },
+  {
+   "chunk": 11,
+   "i": 8,
+   "text": "Doctors",
+   "n": "doctors",
+   "s": 48.11,
+   "e": 48.45
+  },
+  {
+   "chunk": 11,
+   "i": 9,
+   "text": "actually",
+   "n": "actually",
+   "s": 48.45,
+   "e": 48.76
+  },
+  {
+   "chunk": 11,
+   "i": 10,
+   "text": "named",
+   "n": "named",
+   "s": 48.76,
+   "e": 48.97
+  },
+  {
+   "chunk": 11,
+   "i": 11,
+   "text": "it",
+   "n": "it",
+   "s": 48.97,
+   "e": 49.05
+  },
+  {
+   "chunk": 11,
+   "i": 12,
+   "text": "the",
+   "n": "the",
+   "s": 49.05,
+   "e": 49.11
+  },
+  {
+   "chunk": 11,
+   "i": 13,
+   "text": "champagne",
+   "n": "champagne",
+   "s": 49.11,
+   "e": 49.84
+  },
+  {
+   "chunk": 11,
+   "i": 14,
+   "text": "blues.",
+   "n": "blues",
+   "s": 49.84,
+   "e": 50.44
+  },
+  {
+   "chunk": 12,
+   "i": 0,
+   "text": "The",
+   "n": "the",
+   "s": 51.05,
+   "e": 51.14
+  },
+  {
+   "chunk": 12,
+   "i": 1,
+   "text": "bubbles",
+   "n": "bubbles",
+   "s": 51.14,
+   "e": 51.43
+  },
+  {
+   "chunk": 12,
+   "i": 2,
+   "text": "are",
+   "n": "are",
+   "s": 51.43,
+   "e": 51.46
+  },
+  {
+   "chunk": 12,
+   "i": 3,
+   "text": "still",
+   "n": "still",
+   "s": 51.46,
+   "e": 51.66
+  },
+  {
+   "chunk": 12,
+   "i": 4,
+   "text": "right",
+   "n": "right",
+   "s": 51.66,
+   "e": 51.84
+  },
+  {
+   "chunk": 12,
+   "i": 5,
+   "text": "there,",
+   "n": "there",
+   "s": 51.84,
+   "e": 52.08
+  },
+  {
+   "chunk": 12,
+   "i": 6,
+   "text": "fizzing",
+   "n": "fizzing",
+   "s": 52.3,
+   "e": 52.56
+  },
+  {
+   "chunk": 12,
+   "i": 7,
+   "text": "in",
+   "n": "in",
+   "s": 52.56,
+   "e": 52.63
+  },
+  {
+   "chunk": 12,
+   "i": 8,
+   "text": "the",
+   "n": "the",
+   "s": 52.63,
+   "e": 52.69
+  },
+  {
+   "chunk": 12,
+   "i": 9,
+   "text": "glass.",
+   "n": "glass",
+   "s": 52.69,
+   "e": 53.15
+  },
+  {
+   "chunk": 12,
+   "i": 10,
+   "text": "They",
+   "n": "they",
+   "s": 53.37,
+   "e": 53.51
+  },
+  {
+   "chunk": 12,
+   "i": 11,
+   "text": "just",
+   "n": "just",
+   "s": 53.51,
+   "e": 53.72
+  },
+  {
+   "chunk": 12,
+   "i": 12,
+   "text": "stopped",
+   "n": "stopped",
+   "s": 53.72,
+   "e": 54.14
+  },
+  {
+   "chunk": 12,
+   "i": 13,
+   "text": "mattering.",
+   "n": "mattering",
+   "s": 54.14,
+   "e": 54.65
+  },
+  {
+   "chunk": 13,
+   "i": 0,
+   "text": "Bubbles",
+   "n": "bubbles",
+   "s": 55.62,
+   "e": 55.95
+  },
+  {
+   "chunk": 13,
+   "i": 1,
+   "text": "do",
+   "n": "do",
+   "s": 55.95,
+   "e": 56.23
+  },
+  {
+   "chunk": 13,
+   "i": 2,
+   "text": "help",
+   "n": "help",
+   "s": 56.23,
+   "e": 56.42
+  },
+  {
+   "chunk": 13,
+   "i": 3,
+   "text": "a",
+   "n": "a",
+   "s": 56.42,
+   "e": 56.45
+  },
+  {
+   "chunk": 13,
+   "i": 4,
+   "text": "little.",
+   "n": "little",
+   "s": 56.45,
+   "e": 56.75
+  },
+  {
+   "chunk": 13,
+   "i": 5,
+   "text": "They",
+   "n": "they",
+   "s": 57.09,
+   "e": 57.18
+  },
+  {
+   "chunk": 13,
+   "i": 6,
+   "text": "drag",
+   "n": "drag",
+   "s": 57.18,
+   "e": 57.49
+  },
+  {
+   "chunk": 13,
+   "i": 7,
+   "text": "the",
+   "n": "the",
+   "s": 57.49,
+   "e": 57.61
+  },
+  {
+   "chunk": 13,
+   "i": 8,
+   "text": "acid",
+   "n": "acid",
+   "s": 57.61,
+   "e": 57.85
+  },
+  {
+   "chunk": 13,
+   "i": 9,
+   "text": "around",
+   "n": "around",
+   "s": 57.85,
+   "e": 58.07
+  },
+  {
+   "chunk": 13,
+   "i": 10,
+   "text": "your",
+   "n": "your",
+   "s": 58.07,
+   "e": 58.16
+  },
+  {
+   "chunk": 13,
+   "i": 11,
+   "text": "tongue",
+   "n": "tongue",
+   "s": 58.16,
+   "e": 58.58
+  },
+  {
+   "chunk": 13,
+   "i": 12,
+   "text": "and",
+   "n": "and",
+   "s": 58.58,
+   "e": 58.67
+  },
+  {
+   "chunk": 13,
+   "i": 13,
+   "text": "make",
+   "n": "make",
+   "s": 58.67,
+   "e": 58.84
+  },
+  {
+   "chunk": 13,
+   "i": 14,
+   "text": "the",
+   "n": "the",
+   "s": 58.84,
+   "e": 58.9
+  },
+  {
+   "chunk": 13,
+   "i": 15,
+   "text": "bite",
+   "n": "bite",
+   "s": 58.9,
+   "e": 59.14
+  },
+  {
+   "chunk": 13,
+   "i": 16,
+   "text": "stronger.",
+   "n": "stronger",
+   "s": 59.14,
+   "e": 59.56
+  },
+  {
+   "chunk": 14,
+   "i": 0,
+   "text": "But",
+   "n": "but",
+   "s": 59.81,
+   "e": 60.03
+  },
+  {
+   "chunk": 14,
+   "i": 1,
+   "text": "they're",
+   "n": "they're",
+   "s": 60.03,
+   "e": 60.33
+  },
+  {
+   "chunk": 14,
+   "i": 2,
+   "text": "the",
+   "n": "the",
+   "s": 60.33,
+   "e": 60.4
+  },
+  {
+   "chunk": 14,
+   "i": 3,
+   "text": "sidekick,",
+   "n": "sidekick",
+   "s": 60.4,
+   "e": 61.06
+  },
+  {
+   "chunk": 14,
+   "i": 4,
+   "text": "not",
+   "n": "not",
+   "s": 61.3,
+   "e": 61.56
+  },
+  {
+   "chunk": 14,
+   "i": 5,
+   "text": "the",
+   "n": "the",
+   "s": 61.56,
+   "e": 61.66
+  },
+  {
+   "chunk": 14,
+   "i": 6,
+   "text": "star.",
+   "n": "star",
+   "s": 61.66,
+   "e": 62.14
+  },
+  {
+   "chunk": 15,
+   "i": 0,
+   "text": "So",
+   "n": "so",
+   "s": 62.76,
+   "e": 63.07
+  },
+  {
+   "chunk": 15,
+   "i": 1,
+   "text": "next",
+   "n": "next",
+   "s": 63.07,
+   "e": 63.33
+  },
+  {
+   "chunk": 15,
+   "i": 2,
+   "text": "time",
+   "n": "time",
+   "s": 63.33,
+   "e": 63.54
+  },
+  {
+   "chunk": 15,
+   "i": 3,
+   "text": "you",
+   "n": "you",
+   "s": 63.54,
+   "e": 63.61
+  },
+  {
+   "chunk": 15,
+   "i": 4,
+   "text": "crack",
+   "n": "crack",
+   "s": 63.61,
+   "e": 63.88
+  },
+  {
+   "chunk": 15,
+   "i": 5,
+   "text": "open",
+   "n": "open",
+   "s": 63.88,
+   "e": 64.04
+  },
+  {
+   "chunk": 15,
+   "i": 6,
+   "text": "a",
+   "n": "a",
+   "s": 64.04,
+   "e": 64.07
+  },
+  {
+   "chunk": 15,
+   "i": 7,
+   "text": "can,",
+   "n": "can",
+   "s": 64.07,
+   "e": 64.44
+  },
+  {
+   "chunk": 15,
+   "i": 8,
+   "text": "just",
+   "n": "just",
+   "s": 64.8,
+   "e": 64.99
+  },
+  {
+   "chunk": 15,
+   "i": 9,
+   "text": "remember.",
+   "n": "remember",
+   "s": 64.99,
+   "e": 65.38
+  }
+ ],
+ "lines": [
+  "The fizz in your soda isn't the bubbles. It's acid.",
+  "Everyone thinks that sharp bite is tiny bubbles popping on your tongue.",
+  "Nope. Scientists sat people in a pressure chamber where bubbles physically can't form.",
+  "Same fizz. Basically the same bite. Zero bubbles.",
+  "So what are you actually feeling? Here's the insane part.",
+  "Your tongue is coated with an enzyme called carbonic anhydrase.",
+  "It grabs the carbon dioxide dissolved in your drink and snaps it into carbonic acid, almost instantly.",
+  "That acid lights up your sour taste cells, and it pokes your pain nerves too.",
+  "So the fizz is literally your mouth making acid, then hurting itself with it.",
+  "But it gets weirder.",
+  "Mountain climbers take a pill for altitude sickness that blocks that exact enzyme.",
+  "And suddenly soda, beer, even champagne taste flat. Doctors actually named it the champagne blues.",
+  "The bubbles are still right there, fizzing in the glass. They just stopped mattering.",
+  "Bubbles do help a little. They drag the acid around your tongue and make the bite stronger.",
+  "But they're the sidekick, not the star.",
+  "So next time you crack open a can, just remember."
+ ]
+}

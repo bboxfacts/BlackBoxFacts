@@ -1,0 +1,6 @@
+*
+!.gitignore
+!script.txt
+!align.py
+!render.py
+!words.json
