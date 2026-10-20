@@ -1,0 +1,7 @@
+*.mp4
+*.png
+*.raw
+audio/
+preview/
+segs.txt
+__pycache__/

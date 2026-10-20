@@ -1,0 +1,1677 @@
+{
+ "words": [
+  {
+   "chunk": 0,
+   "i": 0,
+   "text": "Grey",
+   "n": "grey",
+   "s": 0.15,
+   "e": 0.5
+  },
+  {
+   "chunk": 0,
+   "i": 1,
+   "text": "hair",
+   "n": "hair",
+   "s": 0.5,
+   "e": 0.98
+  },
+  {
+   "chunk": 0,
+   "i": 2,
+   "text": "isn't",
+   "n": "isn't",
+   "s": 1.2,
+   "e": 1.44
+  },
+  {
+   "chunk": 0,
+   "i": 3,
+   "text": "grey.",
+   "n": "grey",
+   "s": 1.44,
+   "e": 1.82
+  },
+  {
+   "chunk": 1,
+   "i": 0,
+   "text": "It's",
+   "n": "it's",
+   "s": 2.2,
+   "e": 2.33
+  },
+  {
+   "chunk": 1,
+   "i": 1,
+   "text": "see-through.",
+   "n": "see-through",
+   "s": 2.33,
+   "e": 2.9
+  },
+  {
+   "chunk": 2,
+   "i": 0,
+   "text": "Every",
+   "n": "every",
+   "s": 3.39,
+   "e": 3.72
+  },
+  {
+   "chunk": 2,
+   "i": 1,
+   "text": "hair",
+   "n": "hair",
+   "s": 3.72,
+   "e": 4.04
+  },
+  {
+   "chunk": 2,
+   "i": 2,
+   "text": "starts",
+   "n": "starts",
+   "s": 4.04,
+   "e": 4.38
+  },
+  {
+   "chunk": 2,
+   "i": 3,
+   "text": "out",
+   "n": "out",
+   "s": 4.38,
+   "e": 4.52
+  },
+  {
+   "chunk": 2,
+   "i": 4,
+   "text": "clear,",
+   "n": "clear",
+   "s": 4.52,
+   "e": 4.93
+  },
+  {
+   "chunk": 2,
+   "i": 5,
+   "text": "like",
+   "n": "like",
+   "s": 4.93,
+   "e": 5.21
+  },
+  {
+   "chunk": 2,
+   "i": 6,
+   "text": "fishing",
+   "n": "fishing",
+   "s": 5.21,
+   "e": 5.61
+  },
+  {
+   "chunk": 2,
+   "i": 7,
+   "text": "line.",
+   "n": "line",
+   "s": 5.61,
+   "e": 5.97
+  },
+  {
+   "chunk": 3,
+   "i": 0,
+   "text": "The",
+   "n": "the",
+   "s": 6.25,
+   "e": 6.34
+  },
+  {
+   "chunk": 3,
+   "i": 1,
+   "text": "color",
+   "n": "color",
+   "s": 6.34,
+   "e": 6.68
+  },
+  {
+   "chunk": 3,
+   "i": 2,
+   "text": "gets",
+   "n": "gets",
+   "s": 6.68,
+   "e": 6.85
+  },
+  {
+   "chunk": 3,
+   "i": 3,
+   "text": "injected",
+   "n": "injected",
+   "s": 6.85,
+   "e": 7.48
+  },
+  {
+   "chunk": 3,
+   "i": 4,
+   "text": "from",
+   "n": "from",
+   "s": 7.48,
+   "e": 7.7
+  },
+  {
+   "chunk": 3,
+   "i": 5,
+   "text": "the",
+   "n": "the",
+   "s": 7.7,
+   "e": 7.77
+  },
+  {
+   "chunk": 3,
+   "i": 6,
+   "text": "root.",
+   "n": "root",
+   "s": 7.77,
+   "e": 8.16
+  },
+  {
+   "chunk": 4,
+   "i": 0,
+   "text": "Deep",
+   "n": "deep",
+   "s": 8.64,
+   "e": 8.89
+  },
+  {
+   "chunk": 4,
+   "i": 1,
+   "text": "in",
+   "n": "in",
+   "s": 8.89,
+   "e": 9.02
+  },
+  {
+   "chunk": 4,
+   "i": 2,
+   "text": "each",
+   "n": "each",
+   "s": 9.02,
+   "e": 9.32
+  },
+  {
+   "chunk": 4,
+   "i": 3,
+   "text": "follicle,",
+   "n": "follicle",
+   "s": 9.32,
+   "e": 9.87
+  },
+  {
+   "chunk": 4,
+   "i": 4,
+   "text": "pigment",
+   "n": "pigment",
+   "s": 10.07,
+   "e": 10.44
+  },
+  {
+   "chunk": 4,
+   "i": 5,
+   "text": "cells",
+   "n": "cells",
+   "s": 10.44,
+   "e": 10.66
+  },
+  {
+   "chunk": 4,
+   "i": 6,
+   "text": "pump",
+   "n": "pump",
+   "s": 10.66,
+   "e": 10.92
+  },
+  {
+   "chunk": 4,
+   "i": 7,
+   "text": "melanin",
+   "n": "melanin",
+   "s": 10.92,
+   "e": 11.39
+  },
+  {
+   "chunk": 4,
+   "i": 8,
+   "text": "into",
+   "n": "into",
+   "s": 11.39,
+   "e": 11.67
+  },
+  {
+   "chunk": 4,
+   "i": 9,
+   "text": "the",
+   "n": "the",
+   "s": 11.67,
+   "e": 11.77
+  },
+  {
+   "chunk": 4,
+   "i": 10,
+   "text": "hair",
+   "n": "hair",
+   "s": 11.77,
+   "e": 12.06
+  },
+  {
+   "chunk": 4,
+   "i": 11,
+   "text": "while",
+   "n": "while",
+   "s": 12.06,
+   "e": 12.3
+  },
+  {
+   "chunk": 4,
+   "i": 12,
+   "text": "it",
+   "n": "it",
+   "s": 12.3,
+   "e": 12.36
+  },
+  {
+   "chunk": 4,
+   "i": 13,
+   "text": "grows.",
+   "n": "grows",
+   "s": 12.36,
+   "e": 12.85
+  },
+  {
+   "chunk": 5,
+   "i": 0,
+   "text": "When",
+   "n": "when",
+   "s": 13.18,
+   "e": 13.32
+  },
+  {
+   "chunk": 5,
+   "i": 1,
+   "text": "those",
+   "n": "those",
+   "s": 13.32,
+   "e": 13.48
+  },
+  {
+   "chunk": 5,
+   "i": 2,
+   "text": "cells",
+   "n": "cells",
+   "s": 13.48,
+   "e": 13.72
+  },
+  {
+   "chunk": 5,
+   "i": 3,
+   "text": "quit,",
+   "n": "quit",
+   "s": 13.72,
+   "e": 14.25
+  },
+  {
+   "chunk": 5,
+   "i": 4,
+   "text": "the",
+   "n": "the",
+   "s": 14.25,
+   "e": 14.38
+  },
+  {
+   "chunk": 5,
+   "i": 5,
+   "text": "hair",
+   "n": "hair",
+   "s": 14.38,
+   "e": 14.68
+  },
+  {
+   "chunk": 5,
+   "i": 6,
+   "text": "grows",
+   "n": "grows",
+   "s": 14.68,
+   "e": 14.98
+  },
+  {
+   "chunk": 5,
+   "i": 7,
+   "text": "in",
+   "n": "in",
+   "s": 14.98,
+   "e": 15.1
+  },
+  {
+   "chunk": 5,
+   "i": 8,
+   "text": "empty.",
+   "n": "empty",
+   "s": 15.1,
+   "e": 15.66
+  },
+  {
+   "chunk": 6,
+   "i": 0,
+   "text": "Tiny",
+   "n": "tiny",
+   "s": 16.03,
+   "e": 16.52
+  },
+  {
+   "chunk": 6,
+   "i": 1,
+   "text": "air",
+   "n": "air",
+   "s": 16.52,
+   "e": 16.63
+  },
+  {
+   "chunk": 6,
+   "i": 2,
+   "text": "pockets",
+   "n": "pockets",
+   "s": 16.63,
+   "e": 17.1
+  },
+  {
+   "chunk": 6,
+   "i": 3,
+   "text": "scatter",
+   "n": "scatter",
+   "s": 17.1,
+   "e": 17.45
+  },
+  {
+   "chunk": 6,
+   "i": 4,
+   "text": "light,",
+   "n": "light",
+   "s": 17.45,
+   "e": 17.92
+  },
+  {
+   "chunk": 6,
+   "i": 5,
+   "text": "and",
+   "n": "and",
+   "s": 17.92,
+   "e": 18.09
+  },
+  {
+   "chunk": 6,
+   "i": 6,
+   "text": "clear",
+   "n": "clear",
+   "s": 18.09,
+   "e": 18.47
+  },
+  {
+   "chunk": 6,
+   "i": 7,
+   "text": "looks",
+   "n": "looks",
+   "s": 18.47,
+   "e": 18.75
+  },
+  {
+   "chunk": 6,
+   "i": 8,
+   "text": "white.",
+   "n": "white",
+   "s": 18.75,
+   "e": 19.12
+  },
+  {
+   "chunk": 7,
+   "i": 0,
+   "text": "Pull",
+   "n": "pull",
+   "s": 19.62,
+   "e": 19.79
+  },
+  {
+   "chunk": 7,
+   "i": 1,
+   "text": "one",
+   "n": "one",
+   "s": 19.79,
+   "e": 19.93
+  },
+  {
+   "chunk": 7,
+   "i": 2,
+   "text": "out",
+   "n": "out",
+   "s": 19.93,
+   "e": 20.13
+  },
+  {
+   "chunk": 7,
+   "i": 3,
+   "text": "and",
+   "n": "and",
+   "s": 20.13,
+   "e": 20.23
+  },
+  {
+   "chunk": 7,
+   "i": 4,
+   "text": "hold",
+   "n": "hold",
+   "s": 20.23,
+   "e": 20.42
+  },
+  {
+   "chunk": 7,
+   "i": 5,
+   "text": "it",
+   "n": "it",
+   "s": 20.42,
+   "e": 20.48
+  },
+  {
+   "chunk": 7,
+   "i": 6,
+   "text": "up",
+   "n": "up",
+   "s": 20.48,
+   "e": 20.54
+  },
+  {
+   "chunk": 7,
+   "i": 7,
+   "text": "to",
+   "n": "to",
+   "s": 20.54,
+   "e": 20.66
+  },
+  {
+   "chunk": 7,
+   "i": 8,
+   "text": "a",
+   "n": "a",
+   "s": 20.66,
+   "e": 20.69
+  },
+  {
+   "chunk": 7,
+   "i": 9,
+   "text": "lamp.",
+   "n": "lamp",
+   "s": 20.69,
+   "e": 21.13
+  },
+  {
+   "chunk": 8,
+   "i": 0,
+   "text": "But",
+   "n": "but",
+   "s": 21.62,
+   "e": 21.75
+  },
+  {
+   "chunk": 8,
+   "i": 1,
+   "text": "here's",
+   "n": "here's",
+   "s": 21.75,
+   "e": 22.17
+  },
+  {
+   "chunk": 8,
+   "i": 2,
+   "text": "the",
+   "n": "the",
+   "s": 22.17,
+   "e": 22.36
+  },
+  {
+   "chunk": 8,
+   "i": 3,
+   "text": "insane",
+   "n": "insane",
+   "s": 22.36,
+   "e": 22.99
+  },
+  {
+   "chunk": 8,
+   "i": 4,
+   "text": "part.",
+   "n": "part",
+   "s": 22.99,
+   "e": 23.33
+  },
+  {
+   "chunk": 9,
+   "i": 0,
+   "text": "Stress",
+   "n": "stress",
+   "s": 23.7,
+   "e": 24.13
+  },
+  {
+   "chunk": 9,
+   "i": 1,
+   "text": "really",
+   "n": "really",
+   "s": 24.34,
+   "e": 24.65
+  },
+  {
+   "chunk": 9,
+   "i": 2,
+   "text": "can",
+   "n": "can",
+   "s": 24.65,
+   "e": 25.04
+  },
+  {
+   "chunk": 9,
+   "i": 3,
+   "text": "turn",
+   "n": "turn",
+   "s": 25.04,
+   "e": 25.24
+  },
+  {
+   "chunk": 9,
+   "i": 4,
+   "text": "you",
+   "n": "you",
+   "s": 25.24,
+   "e": 25.33
+  },
+  {
+   "chunk": 9,
+   "i": 5,
+   "text": "grey,",
+   "n": "grey",
+   "s": 25.33,
+   "e": 25.7
+  },
+  {
+   "chunk": 9,
+   "i": 6,
+   "text": "and",
+   "n": "and",
+   "s": 25.7,
+   "e": 26.06
+  },
+  {
+   "chunk": 9,
+   "i": 7,
+   "text": "it",
+   "n": "it",
+   "s": 26.06,
+   "e": 26.24
+  },
+  {
+   "chunk": 9,
+   "i": 8,
+   "text": "isn't",
+   "n": "isn't",
+   "s": 26.24,
+   "e": 26.53
+  },
+  {
+   "chunk": 9,
+   "i": 9,
+   "text": "stress",
+   "n": "stress",
+   "s": 26.53,
+   "e": 26.89
+  },
+  {
+   "chunk": 9,
+   "i": 10,
+   "text": "hormones.",
+   "n": "hormones",
+   "s": 26.89,
+   "e": 27.43
+  },
+  {
+   "chunk": 10,
+   "i": 0,
+   "text": "In",
+   "n": "in",
+   "s": 27.89,
+   "e": 28.01
+  },
+  {
+   "chunk": 10,
+   "i": 1,
+   "text": "2020,",
+   "n": "2020",
+   "s": 28.01,
+   "e": 28.58
+  },
+  {
+   "chunk": 10,
+   "i": 2,
+   "text": "Harvard",
+   "n": "harvard",
+   "s": 28.79,
+   "e": 29.09
+  },
+  {
+   "chunk": 10,
+   "i": 3,
+   "text": "scientists",
+   "n": "scientists",
+   "s": 29.09,
+   "e": 29.6
+  },
+  {
+   "chunk": 10,
+   "i": 4,
+   "text": "stressed",
+   "n": "stressed",
+   "s": 29.6,
+   "e": 30.04
+  },
+  {
+   "chunk": 10,
+   "i": 5,
+   "text": "out",
+   "n": "out",
+   "s": 30.04,
+   "e": 30.21
+  },
+  {
+   "chunk": 10,
+   "i": 6,
+   "text": "mice",
+   "n": "mice",
+   "s": 30.21,
+   "e": 30.48
+  },
+  {
+   "chunk": 10,
+   "i": 7,
+   "text": "with",
+   "n": "with",
+   "s": 30.48,
+   "e": 30.62
+  },
+  {
+   "chunk": 10,
+   "i": 8,
+   "text": "pain,",
+   "n": "pain",
+   "s": 30.62,
+   "e": 31.11
+  },
+  {
+   "chunk": 10,
+   "i": 9,
+   "text": "confinement",
+   "n": "confinement",
+   "s": 31.11,
+   "e": 31.75
+  },
+  {
+   "chunk": 10,
+   "i": 10,
+   "text": "and",
+   "n": "and",
+   "s": 31.75,
+   "e": 31.92
+  },
+  {
+   "chunk": 10,
+   "i": 11,
+   "text": "chaos.",
+   "n": "chaos",
+   "s": 31.92,
+   "e": 32.48
+  },
+  {
+   "chunk": 11,
+   "i": 0,
+   "text": "Within",
+   "n": "within",
+   "s": 32.83,
+   "e": 33.11
+  },
+  {
+   "chunk": 11,
+   "i": 1,
+   "text": "weeks,",
+   "n": "weeks",
+   "s": 33.11,
+   "e": 33.54
+  },
+  {
+   "chunk": 11,
+   "i": 2,
+   "text": "their",
+   "n": "their",
+   "s": 33.54,
+   "e": 33.85
+  },
+  {
+   "chunk": 11,
+   "i": 3,
+   "text": "black",
+   "n": "black",
+   "s": 33.85,
+   "e": 34.19
+  },
+  {
+   "chunk": 11,
+   "i": 4,
+   "text": "fur",
+   "n": "fur",
+   "s": 34.19,
+   "e": 34.51
+  },
+  {
+   "chunk": 11,
+   "i": 5,
+   "text": "grew",
+   "n": "grew",
+   "s": 34.51,
+   "e": 34.86
+  },
+  {
+   "chunk": 11,
+   "i": 6,
+   "text": "in",
+   "n": "in",
+   "s": 34.86,
+   "e": 34.93
+  },
+  {
+   "chunk": 11,
+   "i": 7,
+   "text": "white.",
+   "n": "white",
+   "s": 34.93,
+   "e": 35.44
+  },
+  {
+   "chunk": 12,
+   "i": 0,
+   "text": "The",
+   "n": "the",
+   "s": 35.85,
+   "e": 35.95
+  },
+  {
+   "chunk": 12,
+   "i": 1,
+   "text": "culprit?",
+   "n": "culprit",
+   "s": 35.95,
+   "e": 36.46
+  },
+  {
+   "chunk": 13,
+   "i": 0,
+   "text": "The",
+   "n": "the",
+   "s": 36.72,
+   "e": 36.84
+  },
+  {
+   "chunk": 13,
+   "i": 1,
+   "text": "fight",
+   "n": "fight",
+   "s": 36.84,
+   "e": 37.1
+  },
+  {
+   "chunk": 13,
+   "i": 2,
+   "text": "or",
+   "n": "or",
+   "s": 37.1,
+   "e": 37.18
+  },
+  {
+   "chunk": 13,
+   "i": 3,
+   "text": "flight",
+   "n": "flight",
+   "s": 37.18,
+   "e": 37.43
+  },
+  {
+   "chunk": 13,
+   "i": 4,
+   "text": "nerves",
+   "n": "nerves",
+   "s": 37.43,
+   "e": 37.73
+  },
+  {
+   "chunk": 13,
+   "i": 5,
+   "text": "wrapped",
+   "n": "wrapped",
+   "s": 37.73,
+   "e": 38.04
+  },
+  {
+   "chunk": 13,
+   "i": 6,
+   "text": "around",
+   "n": "around",
+   "s": 38.04,
+   "e": 38.38
+  },
+  {
+   "chunk": 13,
+   "i": 7,
+   "text": "every",
+   "n": "every",
+   "s": 38.38,
+   "e": 38.77
+  },
+  {
+   "chunk": 13,
+   "i": 8,
+   "text": "single",
+   "n": "single",
+   "s": 38.77,
+   "e": 39.17
+  },
+  {
+   "chunk": 13,
+   "i": 9,
+   "text": "follicle.",
+   "n": "follicle",
+   "s": 39.17,
+   "e": 39.82
+  },
+  {
+   "chunk": 14,
+   "i": 0,
+   "text": "Under",
+   "n": "under",
+   "s": 40.28,
+   "e": 40.48
+  },
+  {
+   "chunk": 14,
+   "i": 1,
+   "text": "stress,",
+   "n": "stress",
+   "s": 40.48,
+   "e": 40.84
+  },
+  {
+   "chunk": 14,
+   "i": 2,
+   "text": "they",
+   "n": "they",
+   "s": 41.05,
+   "e": 41.16
+  },
+  {
+   "chunk": 14,
+   "i": 3,
+   "text": "flood",
+   "n": "flood",
+   "s": 41.16,
+   "e": 41.55
+  },
+  {
+   "chunk": 14,
+   "i": 4,
+   "text": "it",
+   "n": "it",
+   "s": 41.55,
+   "e": 41.62
+  },
+  {
+   "chunk": 14,
+   "i": 5,
+   "text": "with",
+   "n": "with",
+   "s": 41.62,
+   "e": 41.75
+  },
+  {
+   "chunk": 14,
+   "i": 6,
+   "text": "noradrenaline.",
+   "n": "noradrenaline",
+   "s": 41.75,
+   "e": 42.47
+  },
+  {
+   "chunk": 15,
+   "i": 0,
+   "text": "The",
+   "n": "the",
+   "s": 42.68,
+   "e": 42.76
+  },
+  {
+   "chunk": 15,
+   "i": 1,
+   "text": "pigment",
+   "n": "pigment",
+   "s": 42.76,
+   "e": 43.09
+  },
+  {
+   "chunk": 15,
+   "i": 2,
+   "text": "stem",
+   "n": "stem",
+   "s": 43.09,
+   "e": 43.32
+  },
+  {
+   "chunk": 15,
+   "i": 3,
+   "text": "cells",
+   "n": "cells",
+   "s": 43.32,
+   "e": 43.56
+  },
+  {
+   "chunk": 15,
+   "i": 4,
+   "text": "all",
+   "n": "all",
+   "s": 43.56,
+   "e": 43.76
+  },
+  {
+   "chunk": 15,
+   "i": 5,
+   "text": "panic,",
+   "n": "panic",
+   "s": 43.76,
+   "e": 44.27
+  },
+  {
+   "chunk": 15,
+   "i": 6,
+   "text": "wake",
+   "n": "wake",
+   "s": 44.27,
+   "e": 44.6
+  },
+  {
+   "chunk": 15,
+   "i": 7,
+   "text": "up",
+   "n": "up",
+   "s": 44.6,
+   "e": 44.7
+  },
+  {
+   "chunk": 15,
+   "i": 8,
+   "text": "at",
+   "n": "at",
+   "s": 44.7,
+   "e": 44.78
+  },
+  {
+   "chunk": 15,
+   "i": 9,
+   "text": "once,",
+   "n": "once",
+   "s": 44.78,
+   "e": 45.12
+  },
+  {
+   "chunk": 15,
+   "i": 10,
+   "text": "and",
+   "n": "and",
+   "s": 45.12,
+   "e": 45.35
+  },
+  {
+   "chunk": 15,
+   "i": 11,
+   "text": "burn",
+   "n": "burn",
+   "s": 45.35,
+   "e": 45.67
+  },
+  {
+   "chunk": 15,
+   "i": 12,
+   "text": "through",
+   "n": "through",
+   "s": 45.67,
+   "e": 45.9
+  },
+  {
+   "chunk": 15,
+   "i": 13,
+   "text": "the",
+   "n": "the",
+   "s": 45.9,
+   "e": 46.03
+  },
+  {
+   "chunk": 15,
+   "i": 14,
+   "text": "entire",
+   "n": "entire",
+   "s": 46.03,
+   "e": 46.53
+  },
+  {
+   "chunk": 15,
+   "i": 15,
+   "text": "reserve.",
+   "n": "reserve",
+   "s": 46.53,
+   "e": 47.09
+  },
+  {
+   "chunk": 16,
+   "i": 0,
+   "text": "In",
+   "n": "in",
+   "s": 47.59,
+   "e": 47.68
+  },
+  {
+   "chunk": 16,
+   "i": 1,
+   "text": "those",
+   "n": "those",
+   "s": 47.68,
+   "e": 47.84
+  },
+  {
+   "chunk": 16,
+   "i": 2,
+   "text": "mice,",
+   "n": "mice",
+   "s": 47.84,
+   "e": 48.21
+  },
+  {
+   "chunk": 16,
+   "i": 3,
+   "text": "the",
+   "n": "the",
+   "s": 48.21,
+   "e": 48.41
+  },
+  {
+   "chunk": 16,
+   "i": 4,
+   "text": "cells",
+   "n": "cells",
+   "s": 48.41,
+   "e": 48.74
+  },
+  {
+   "chunk": 16,
+   "i": 5,
+   "text": "never",
+   "n": "never",
+   "s": 48.74,
+   "e": 49.13
+  },
+  {
+   "chunk": 16,
+   "i": 6,
+   "text": "came",
+   "n": "came",
+   "s": 49.13,
+   "e": 49.36
+  },
+  {
+   "chunk": 16,
+   "i": 7,
+   "text": "back.",
+   "n": "back",
+   "s": 49.36,
+   "e": 49.71
+  },
+  {
+   "chunk": 17,
+   "i": 0,
+   "text": "And",
+   "n": "and",
+   "s": 50.38,
+   "e": 50.65
+  },
+  {
+   "chunk": 17,
+   "i": 1,
+   "text": "it",
+   "n": "it",
+   "s": 50.65,
+   "e": 50.73
+  },
+  {
+   "chunk": 17,
+   "i": 2,
+   "text": "gets",
+   "n": "gets",
+   "s": 50.73,
+   "e": 50.89
+  },
+  {
+   "chunk": 17,
+   "i": 3,
+   "text": "weirder.",
+   "n": "weirder",
+   "s": 50.89,
+   "e": 51.38
+  },
+  {
+   "chunk": 18,
+   "i": 0,
+   "text": "The",
+   "n": "the",
+   "s": 51.85,
+   "e": 51.92
+  },
+  {
+   "chunk": 18,
+   "i": 1,
+   "text": "hair",
+   "n": "hair",
+   "s": 51.92,
+   "e": 52.15
+  },
+  {
+   "chunk": 18,
+   "i": 2,
+   "text": "on",
+   "n": "on",
+   "s": 52.15,
+   "e": 52.26
+  },
+  {
+   "chunk": 18,
+   "i": 3,
+   "text": "your",
+   "n": "your",
+   "s": 52.26,
+   "e": 52.35
+  },
+  {
+   "chunk": 18,
+   "i": 4,
+   "text": "head",
+   "n": "head",
+   "s": 52.35,
+   "e": 52.52
+  },
+  {
+   "chunk": 18,
+   "i": 5,
+   "text": "is",
+   "n": "is",
+   "s": 52.52,
+   "e": 52.63
+  },
+  {
+   "chunk": 18,
+   "i": 6,
+   "text": "already",
+   "n": "already",
+   "s": 52.63,
+   "e": 53.14
+  },
+  {
+   "chunk": 18,
+   "i": 7,
+   "text": "dead,",
+   "n": "dead",
+   "s": 53.14,
+   "e": 53.51
+  },
+  {
+   "chunk": 18,
+   "i": 8,
+   "text": "so",
+   "n": "so",
+   "s": 53.51,
+   "e": 53.69
+  },
+  {
+   "chunk": 18,
+   "i": 9,
+   "text": "it",
+   "n": "it",
+   "s": 53.69,
+   "e": 53.81
+  },
+  {
+   "chunk": 18,
+   "i": 10,
+   "text": "can't",
+   "n": "can't",
+   "s": 53.81,
+   "e": 54.1
+  },
+  {
+   "chunk": 18,
+   "i": 11,
+   "text": "go",
+   "n": "go",
+   "s": 54.1,
+   "e": 54.23
+  },
+  {
+   "chunk": 18,
+   "i": 12,
+   "text": "white",
+   "n": "white",
+   "s": 54.23,
+   "e": 54.57
+  },
+  {
+   "chunk": 18,
+   "i": 13,
+   "text": "overnight.",
+   "n": "overnight",
+   "s": 54.57,
+   "e": 55.19
+  },
+  {
+   "chunk": 19,
+   "i": 0,
+   "text": "But",
+   "n": "but",
+   "s": 55.57,
+   "e": 55.81
+  },
+  {
+   "chunk": 19,
+   "i": 1,
+   "text": "in",
+   "n": "in",
+   "s": 55.81,
+   "e": 55.96
+  },
+  {
+   "chunk": 19,
+   "i": 2,
+   "text": "2021,",
+   "n": "2021",
+   "s": 55.96,
+   "e": 56.69
+  },
+  {
+   "chunk": 19,
+   "i": 3,
+   "text": "Columbia",
+   "n": "columbia",
+   "s": 56.69,
+   "e": 57.31
+  },
+  {
+   "chunk": 19,
+   "i": 4,
+   "text": "researchers",
+   "n": "researchers",
+   "s": 57.31,
+   "e": 57.81
+  },
+  {
+   "chunk": 19,
+   "i": 5,
+   "text": "mapped",
+   "n": "mapped",
+   "s": 57.81,
+   "e": 58.08
+  },
+  {
+   "chunk": 19,
+   "i": 6,
+   "text": "single",
+   "n": "single",
+   "s": 58.08,
+   "e": 58.51
+  },
+  {
+   "chunk": 19,
+   "i": 7,
+   "text": "human",
+   "n": "human",
+   "s": 58.51,
+   "e": 58.82
+  },
+  {
+   "chunk": 19,
+   "i": 8,
+   "text": "hairs",
+   "n": "hairs",
+   "s": 58.82,
+   "e": 59.21
+  },
+  {
+   "chunk": 19,
+   "i": 9,
+   "text": "and",
+   "n": "and",
+   "s": 59.21,
+   "e": 59.33
+  },
+  {
+   "chunk": 19,
+   "i": 10,
+   "text": "found",
+   "n": "found",
+   "s": 59.33,
+   "e": 59.56
+  },
+  {
+   "chunk": 19,
+   "i": 11,
+   "text": "grey",
+   "n": "grey",
+   "s": 59.56,
+   "e": 59.87
+  },
+  {
+   "chunk": 19,
+   "i": 12,
+   "text": "strands",
+   "n": "strands",
+   "s": 59.87,
+   "e": 60.23
+  },
+  {
+   "chunk": 19,
+   "i": 13,
+   "text": "that",
+   "n": "that",
+   "s": 60.23,
+   "e": 60.37
+  },
+  {
+   "chunk": 19,
+   "i": 14,
+   "text": "went",
+   "n": "went",
+   "s": 60.37,
+   "e": 60.59
+  },
+  {
+   "chunk": 19,
+   "i": 15,
+   "text": "dark",
+   "n": "dark",
+   "s": 60.59,
+   "e": 60.87
+  },
+  {
+   "chunk": 19,
+   "i": 16,
+   "text": "again,",
+   "n": "again",
+   "s": 60.87,
+   "e": 61.2
+  },
+  {
+   "chunk": 19,
+   "i": 17,
+   "text": "lining",
+   "n": "lining",
+   "s": 61.47,
+   "e": 61.77
+  },
+  {
+   "chunk": 19,
+   "i": 18,
+   "text": "up",
+   "n": "up",
+   "s": 61.77,
+   "e": 61.89
+  },
+  {
+   "chunk": 19,
+   "i": 19,
+   "text": "with",
+   "n": "with",
+   "s": 61.89,
+   "e": 62.0
+  },
+  {
+   "chunk": 19,
+   "i": 20,
+   "text": "calmer",
+   "n": "calmer",
+   "s": 62.0,
+   "e": 62.42
+  },
+  {
+   "chunk": 19,
+   "i": 21,
+   "text": "stretches",
+   "n": "stretches",
+   "s": 62.42,
+   "e": 62.84
+  },
+  {
+   "chunk": 19,
+   "i": 22,
+   "text": "in",
+   "n": "in",
+   "s": 62.84,
+   "e": 62.93
+  },
+  {
+   "chunk": 19,
+   "i": 23,
+   "text": "people's",
+   "n": "people's",
+   "s": 62.93,
+   "e": 63.27
+  },
+  {
+   "chunk": 19,
+   "i": 24,
+   "text": "lives.",
+   "n": "lives",
+   "s": 63.27,
+   "e": 63.73
+  },
+  {
+   "chunk": 20,
+   "i": 0,
+   "text": "Not",
+   "n": "not",
+   "s": 64.15,
+   "e": 64.41
+  },
+  {
+   "chunk": 20,
+   "i": 1,
+   "text": "everyone,",
+   "n": "everyone",
+   "s": 64.41,
+   "e": 64.85
+  },
+  {
+   "chunk": 20,
+   "i": 2,
+   "text": "not",
+   "n": "not",
+   "s": 64.98,
+   "e": 65.22
+  },
+  {
+   "chunk": 20,
+   "i": 3,
+   "text": "every",
+   "n": "every",
+   "s": 65.22,
+   "e": 65.47
+  },
+  {
+   "chunk": 20,
+   "i": 4,
+   "text": "hair.",
+   "n": "hair",
+   "s": 65.47,
+   "e": 65.82
+  },
+  {
+   "chunk": 21,
+   "i": 0,
+   "text": "But",
+   "n": "but",
+   "s": 66.07,
+   "e": 66.29
+  },
+  {
+   "chunk": 21,
+   "i": 1,
+   "text": "your",
+   "n": "your",
+   "s": 66.29,
+   "e": 66.52
+  },
+  {
+   "chunk": 21,
+   "i": 2,
+   "text": "grey",
+   "n": "grey",
+   "s": 66.52,
+   "e": 66.87
+  },
+  {
+   "chunk": 21,
+   "i": 3,
+   "text": "might",
+   "n": "might",
+   "s": 66.87,
+   "e": 67.26
+  },
+  {
+   "chunk": 21,
+   "i": 4,
+   "text": "be",
+   "n": "be",
+   "s": 67.26,
+   "e": 67.44
+  },
+  {
+   "chunk": 21,
+   "i": 5,
+   "text": "negotiable.",
+   "n": "negotiable",
+   "s": 67.44,
+   "e": 68.05
+  },
+  {
+   "chunk": 22,
+   "i": 0,
+   "text": "So",
+   "n": "so",
+   "s": 68.5,
+   "e": 68.81
+  },
+  {
+   "chunk": 22,
+   "i": 1,
+   "text": "next",
+   "n": "next",
+   "s": 68.81,
+   "e": 69.05
+  },
+  {
+   "chunk": 22,
+   "i": 2,
+   "text": "time",
+   "n": "time",
+   "s": 69.05,
+   "e": 69.19
+  },
+  {
+   "chunk": 22,
+   "i": 3,
+   "text": "you",
+   "n": "you",
+   "s": 69.19,
+   "e": 69.31
+  },
+  {
+   "chunk": 22,
+   "i": 4,
+   "text": "find",
+   "n": "find",
+   "s": 69.31,
+   "e": 69.52
+  },
+  {
+   "chunk": 22,
+   "i": 5,
+   "text": "one",
+   "n": "one",
+   "s": 69.52,
+   "e": 69.64
+  },
+  {
+   "chunk": 22,
+   "i": 6,
+   "text": "in",
+   "n": "in",
+   "s": 69.64,
+   "e": 69.72
+  },
+  {
+   "chunk": 22,
+   "i": 7,
+   "text": "the",
+   "n": "the",
+   "s": 69.72,
+   "e": 69.78
+  },
+  {
+   "chunk": 22,
+   "i": 8,
+   "text": "mirror,",
+   "n": "mirror",
+   "s": 69.78,
+   "e": 70.1
+  },
+  {
+   "chunk": 22,
+   "i": 9,
+   "text": "remember.",
+   "n": "remember",
+   "s": 70.41,
+   "e": 70.85
+  }
+ ],
+ "lines": [
+  "Grey hair isn't grey.",
+  "It's see-through.",
+  "Every hair starts out clear, like fishing line.",
+  "The color gets injected from the root.",
+  "Deep in each follicle, pigment cells pump melanin into the hair while it grows.",
+  "When those cells quit, the hair grows in empty.",
+  "Tiny air pockets scatter light, and clear looks white.",
+  "Pull one out and hold it up to a lamp.",
+  "But here's the insane part.",
+  "Stress really can turn you grey, and it isn't stress hormones.",
+  "In 2020, Harvard scientists stressed out mice with pain, confinement and chaos.",
+  "Within weeks, their black fur grew in white.",
+  "The culprit?",
+  "The fight or flight nerves wrapped around every single follicle.",
+  "Under stress, they flood it with noradrenaline.",
+  "The pigment stem cells all panic, wake up at once, and burn through the entire reserve.",
+  "In those mice, the cells never came back.",
+  "And it gets weirder.",
+  "The hair on your head is already dead, so it can't go white overnight.",
+  "But in 2021, Columbia researchers mapped single human hairs and found grey strands that went dark again, lining up with calmer stretches in people's lives.",
+  "Not everyone, not every hair.",
+  "But your grey might be negotiable.",
+  "So next time you find one in the mirror, remember."
+ ]
+}
