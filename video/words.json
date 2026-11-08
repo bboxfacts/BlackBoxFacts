@@ -1,0 +1,1516 @@
+{
+ "words": [
+  {
+   "chunk": 0,
+   "i": 0,
+   "text": "Your",
+   "n": "your",
+   "s": 0.12,
+   "e": 0.33
+  },
+  {
+   "chunk": 0,
+   "i": 1,
+   "text": "belly",
+   "n": "belly",
+   "s": 0.33,
+   "e": 0.8
+  },
+  {
+   "chunk": 0,
+   "i": 2,
+   "text": "hair",
+   "n": "hair",
+   "s": 0.8,
+   "e": 1.07
+  },
+  {
+   "chunk": 0,
+   "i": 3,
+   "text": "is",
+   "n": "is",
+   "s": 1.07,
+   "e": 1.36
+  },
+  {
+   "chunk": 0,
+   "i": 4,
+   "text": "harvesting",
+   "n": "harvesting",
+   "s": 1.36,
+   "e": 2.17
+  },
+  {
+   "chunk": 0,
+   "i": 5,
+   "text": "your",
+   "n": "your",
+   "s": 2.17,
+   "e": 2.32
+  },
+  {
+   "chunk": 0,
+   "i": 6,
+   "text": "shirt,",
+   "n": "shirt",
+   "s": 2.32,
+   "e": 2.84
+  },
+  {
+   "chunk": 0,
+   "i": 7,
+   "text": "one",
+   "n": "one",
+   "s": 2.84,
+   "e": 3.27
+  },
+  {
+   "chunk": 0,
+   "i": 8,
+   "text": "fiber",
+   "n": "fiber",
+   "s": 3.27,
+   "e": 3.66
+  },
+  {
+   "chunk": 0,
+   "i": 9,
+   "text": "at",
+   "n": "at",
+   "s": 3.66,
+   "e": 3.72
+  },
+  {
+   "chunk": 0,
+   "i": 10,
+   "text": "a",
+   "n": "a",
+   "s": 3.72,
+   "e": 3.76
+  },
+  {
+   "chunk": 0,
+   "i": 11,
+   "text": "time.",
+   "n": "time",
+   "s": 3.76,
+   "e": 4.17
+  },
+  {
+   "chunk": 1,
+   "i": 0,
+   "text": "That",
+   "n": "that",
+   "s": 4.69,
+   "e": 4.84
+  },
+  {
+   "chunk": 1,
+   "i": 1,
+   "text": "lint",
+   "n": "lint",
+   "s": 4.84,
+   "e": 5.11
+  },
+  {
+   "chunk": 1,
+   "i": 2,
+   "text": "in",
+   "n": "in",
+   "s": 5.11,
+   "e": 5.2
+  },
+  {
+   "chunk": 1,
+   "i": 3,
+   "text": "your",
+   "n": "your",
+   "s": 5.2,
+   "e": 5.31
+  },
+  {
+   "chunk": 1,
+   "i": 4,
+   "text": "belly",
+   "n": "belly",
+   "s": 5.31,
+   "e": 5.5
+  },
+  {
+   "chunk": 1,
+   "i": 5,
+   "text": "button?",
+   "n": "button",
+   "s": 5.5,
+   "e": 5.76
+  },
+  {
+   "chunk": 1,
+   "i": 6,
+   "text": "Not",
+   "n": "not",
+   "s": 6.14,
+   "e": 6.43
+  },
+  {
+   "chunk": 1,
+   "i": 7,
+   "text": "random.",
+   "n": "random",
+   "s": 6.43,
+   "e": 7.1
+  },
+  {
+   "chunk": 2,
+   "i": 0,
+   "text": "A",
+   "n": "a",
+   "s": 7.53,
+   "e": 7.59
+  },
+  {
+   "chunk": 2,
+   "i": 1,
+   "text": "chemist",
+   "n": "chemist",
+   "s": 7.59,
+   "e": 7.96
+  },
+  {
+   "chunk": 2,
+   "i": 2,
+   "text": "in",
+   "n": "in",
+   "s": 7.96,
+   "e": 8.04
+  },
+  {
+   "chunk": 2,
+   "i": 3,
+   "text": "Vienna",
+   "n": "vienna",
+   "s": 8.04,
+   "e": 8.3
+  },
+  {
+   "chunk": 2,
+   "i": 4,
+   "text": "collected",
+   "n": "collected",
+   "s": 8.3,
+   "e": 8.67
+  },
+  {
+   "chunk": 2,
+   "i": 5,
+   "text": "five",
+   "n": "five",
+   "s": 8.67,
+   "e": 9.06
+  },
+  {
+   "chunk": 2,
+   "i": 6,
+   "text": "hundred",
+   "n": "hundred",
+   "s": 9.06,
+   "e": 9.3
+  },
+  {
+   "chunk": 2,
+   "i": 7,
+   "text": "and",
+   "n": "and",
+   "s": 9.3,
+   "e": 9.4
+  },
+  {
+   "chunk": 2,
+   "i": 8,
+   "text": "three",
+   "n": "three",
+   "s": 9.4,
+   "e": 9.58
+  },
+  {
+   "chunk": 2,
+   "i": 9,
+   "text": "pieces",
+   "n": "pieces",
+   "s": 9.58,
+   "e": 9.91
+  },
+  {
+   "chunk": 2,
+   "i": 10,
+   "text": "of",
+   "n": "of",
+   "s": 9.91,
+   "e": 9.98
+  },
+  {
+   "chunk": 2,
+   "i": 11,
+   "text": "navel",
+   "n": "navel",
+   "s": 9.98,
+   "e": 10.29
+  },
+  {
+   "chunk": 2,
+   "i": 12,
+   "text": "lint.",
+   "n": "lint",
+   "s": 10.29,
+   "e": 10.51
+  },
+  {
+   "chunk": 2,
+   "i": 13,
+   "text": "Over",
+   "n": "over",
+   "s": 10.98,
+   "e": 11.22
+  },
+  {
+   "chunk": 2,
+   "i": 14,
+   "text": "three",
+   "n": "three",
+   "s": 11.22,
+   "e": 11.54
+  },
+  {
+   "chunk": 2,
+   "i": 15,
+   "text": "years.",
+   "n": "years",
+   "s": 11.54,
+   "e": 12.19
+  },
+  {
+   "chunk": 3,
+   "i": 0,
+   "text": "Mostly",
+   "n": "mostly",
+   "s": 12.89,
+   "e": 13.25
+  },
+  {
+   "chunk": 3,
+   "i": 1,
+   "text": "cotton",
+   "n": "cotton",
+   "s": 13.25,
+   "e": 13.67
+  },
+  {
+   "chunk": 3,
+   "i": 2,
+   "text": "fibers",
+   "n": "fibers",
+   "s": 13.67,
+   "e": 14.01
+  },
+  {
+   "chunk": 3,
+   "i": 3,
+   "text": "from",
+   "n": "from",
+   "s": 14.01,
+   "e": 14.14
+  },
+  {
+   "chunk": 3,
+   "i": 4,
+   "text": "clothes,",
+   "n": "clothes",
+   "s": 14.14,
+   "e": 14.57
+  },
+  {
+   "chunk": 3,
+   "i": 5,
+   "text": "mixed",
+   "n": "mixed",
+   "s": 14.71,
+   "e": 14.95
+  },
+  {
+   "chunk": 3,
+   "i": 6,
+   "text": "with",
+   "n": "with",
+   "s": 14.95,
+   "e": 15.09
+  },
+  {
+   "chunk": 3,
+   "i": 7,
+   "text": "dead",
+   "n": "dead",
+   "s": 15.09,
+   "e": 15.27
+  },
+  {
+   "chunk": 3,
+   "i": 8,
+   "text": "skin,",
+   "n": "skin",
+   "s": 15.27,
+   "e": 15.9
+  },
+  {
+   "chunk": 3,
+   "i": 9,
+   "text": "sweat,",
+   "n": "sweat",
+   "s": 15.9,
+   "e": 16.4
+  },
+  {
+   "chunk": 3,
+   "i": 10,
+   "text": "fat",
+   "n": "fat",
+   "s": 16.4,
+   "e": 16.75
+  },
+  {
+   "chunk": 3,
+   "i": 11,
+   "text": "and",
+   "n": "and",
+   "s": 16.75,
+   "e": 16.99
+  },
+  {
+   "chunk": 3,
+   "i": 12,
+   "text": "dust.",
+   "n": "dust",
+   "s": 16.99,
+   "e": 17.35
+  },
+  {
+   "chunk": 4,
+   "i": 0,
+   "text": "Here's",
+   "n": "here's",
+   "s": 18.06,
+   "e": 18.46
+  },
+  {
+   "chunk": 4,
+   "i": 1,
+   "text": "the",
+   "n": "the",
+   "s": 18.46,
+   "e": 18.62
+  },
+  {
+   "chunk": 4,
+   "i": 2,
+   "text": "insane",
+   "n": "insane",
+   "s": 18.62,
+   "e": 19.01
+  },
+  {
+   "chunk": 4,
+   "i": 3,
+   "text": "part.",
+   "n": "part",
+   "s": 19.01,
+   "e": 19.28
+  },
+  {
+   "chunk": 4,
+   "i": 4,
+   "text": "Belly",
+   "n": "belly",
+   "s": 19.7,
+   "e": 20.07
+  },
+  {
+   "chunk": 4,
+   "i": 5,
+   "text": "hair",
+   "n": "hair",
+   "s": 20.07,
+   "e": 20.35
+  },
+  {
+   "chunk": 4,
+   "i": 6,
+   "text": "is",
+   "n": "is",
+   "s": 20.64,
+   "e": 20.75
+  },
+  {
+   "chunk": 4,
+   "i": 7,
+   "text": "covered",
+   "n": "covered",
+   "s": 20.75,
+   "e": 21.15
+  },
+  {
+   "chunk": 4,
+   "i": 8,
+   "text": "in",
+   "n": "in",
+   "s": 21.15,
+   "e": 21.31
+  },
+  {
+   "chunk": 4,
+   "i": 9,
+   "text": "tiny",
+   "n": "tiny",
+   "s": 21.31,
+   "e": 21.68
+  },
+  {
+   "chunk": 4,
+   "i": 10,
+   "text": "scales",
+   "n": "scales",
+   "s": 21.68,
+   "e": 22.21
+  },
+  {
+   "chunk": 4,
+   "i": 11,
+   "text": "that",
+   "n": "that",
+   "s": 22.21,
+   "e": 22.36
+  },
+  {
+   "chunk": 4,
+   "i": 12,
+   "text": "act",
+   "n": "act",
+   "s": 22.36,
+   "e": 22.61
+  },
+  {
+   "chunk": 4,
+   "i": 13,
+   "text": "like",
+   "n": "like",
+   "s": 22.61,
+   "e": 22.77
+  },
+  {
+   "chunk": 4,
+   "i": 14,
+   "text": "barbed",
+   "n": "barbed",
+   "s": 22.77,
+   "e": 23.08
+  },
+  {
+   "chunk": 4,
+   "i": 15,
+   "text": "hooks.",
+   "n": "hooks",
+   "s": 23.08,
+   "e": 23.46
+  },
+  {
+   "chunk": 5,
+   "i": 0,
+   "text": "Every",
+   "n": "every",
+   "s": 24.02,
+   "e": 24.29
+  },
+  {
+   "chunk": 5,
+   "i": 1,
+   "text": "time",
+   "n": "time",
+   "s": 24.29,
+   "e": 24.47
+  },
+  {
+   "chunk": 5,
+   "i": 2,
+   "text": "you",
+   "n": "you",
+   "s": 24.47,
+   "e": 24.57
+  },
+  {
+   "chunk": 5,
+   "i": 3,
+   "text": "move,",
+   "n": "move",
+   "s": 24.57,
+   "e": 24.82
+  },
+  {
+   "chunk": 5,
+   "i": 4,
+   "text": "those",
+   "n": "those",
+   "s": 25.02,
+   "e": 25.18
+  },
+  {
+   "chunk": 5,
+   "i": 5,
+   "text": "scales",
+   "n": "scales",
+   "s": 25.18,
+   "e": 25.55
+  },
+  {
+   "chunk": 5,
+   "i": 6,
+   "text": "snag",
+   "n": "snag",
+   "s": 25.55,
+   "e": 26.0
+  },
+  {
+   "chunk": 5,
+   "i": 7,
+   "text": "fibers",
+   "n": "fibers",
+   "s": 26.0,
+   "e": 26.51
+  },
+  {
+   "chunk": 5,
+   "i": 8,
+   "text": "off",
+   "n": "off",
+   "s": 26.51,
+   "e": 26.65
+  },
+  {
+   "chunk": 5,
+   "i": 9,
+   "text": "your",
+   "n": "your",
+   "s": 26.65,
+   "e": 26.77
+  },
+  {
+   "chunk": 5,
+   "i": 10,
+   "text": "shirt.",
+   "n": "shirt",
+   "s": 26.77,
+   "e": 27.13
+  },
+  {
+   "chunk": 6,
+   "i": 0,
+   "text": "And",
+   "n": "and",
+   "s": 27.67,
+   "e": 27.89
+  },
+  {
+   "chunk": 6,
+   "i": 1,
+   "text": "belly",
+   "n": "belly",
+   "s": 27.89,
+   "e": 28.14
+  },
+  {
+   "chunk": 6,
+   "i": 2,
+   "text": "hair",
+   "n": "hair",
+   "s": 28.14,
+   "e": 28.55
+  },
+  {
+   "chunk": 6,
+   "i": 3,
+   "text": "often",
+   "n": "often",
+   "s": 28.55,
+   "e": 28.88
+  },
+  {
+   "chunk": 6,
+   "i": 4,
+   "text": "grows",
+   "n": "grows",
+   "s": 28.88,
+   "e": 29.17
+  },
+  {
+   "chunk": 6,
+   "i": 5,
+   "text": "in",
+   "n": "in",
+   "s": 29.17,
+   "e": 29.27
+  },
+  {
+   "chunk": 6,
+   "i": 6,
+   "text": "circles",
+   "n": "circles",
+   "s": 29.27,
+   "e": 29.81
+  },
+  {
+   "chunk": 6,
+   "i": 7,
+   "text": "around",
+   "n": "around",
+   "s": 29.81,
+   "e": 30.23
+  },
+  {
+   "chunk": 6,
+   "i": 8,
+   "text": "the",
+   "n": "the",
+   "s": 30.23,
+   "e": 30.3
+  },
+  {
+   "chunk": 6,
+   "i": 9,
+   "text": "navel,",
+   "n": "navel",
+   "s": 30.3,
+   "e": 30.71
+  },
+  {
+   "chunk": 6,
+   "i": 10,
+   "text": "so",
+   "n": "so",
+   "s": 30.95,
+   "e": 31.24
+  },
+  {
+   "chunk": 6,
+   "i": 11,
+   "text": "it",
+   "n": "it",
+   "s": 31.24,
+   "e": 31.39
+  },
+  {
+   "chunk": 6,
+   "i": 12,
+   "text": "funnels",
+   "n": "funnels",
+   "s": 31.39,
+   "e": 31.96
+  },
+  {
+   "chunk": 6,
+   "i": 13,
+   "text": "everything",
+   "n": "everything",
+   "s": 31.96,
+   "e": 32.35
+  },
+  {
+   "chunk": 6,
+   "i": 14,
+   "text": "into",
+   "n": "into",
+   "s": 32.35,
+   "e": 32.47
+  },
+  {
+   "chunk": 6,
+   "i": 15,
+   "text": "the",
+   "n": "the",
+   "s": 32.47,
+   "e": 32.56
+  },
+  {
+   "chunk": 6,
+   "i": 16,
+   "text": "hole.",
+   "n": "hole",
+   "s": 32.56,
+   "e": 33.01
+  },
+  {
+   "chunk": 7,
+   "i": 0,
+   "text": "When",
+   "n": "when",
+   "s": 33.73,
+   "e": 33.85
+  },
+  {
+   "chunk": 7,
+   "i": 1,
+   "text": "he",
+   "n": "he",
+   "s": 33.85,
+   "e": 33.97
+  },
+  {
+   "chunk": 7,
+   "i": 2,
+   "text": "shaved",
+   "n": "shaved",
+   "s": 33.97,
+   "e": 34.34
+  },
+  {
+   "chunk": 7,
+   "i": 3,
+   "text": "his",
+   "n": "his",
+   "s": 34.34,
+   "e": 34.45
+  },
+  {
+   "chunk": 7,
+   "i": 4,
+   "text": "stomach,",
+   "n": "stomach",
+   "s": 34.45,
+   "e": 35.08
+  },
+  {
+   "chunk": 7,
+   "i": 5,
+   "text": "the",
+   "n": "the",
+   "s": 35.08,
+   "e": 35.16
+  },
+  {
+   "chunk": 7,
+   "i": 6,
+   "text": "lint",
+   "n": "lint",
+   "s": 35.16,
+   "e": 35.41
+  },
+  {
+   "chunk": 7,
+   "i": 7,
+   "text": "basically",
+   "n": "basically",
+   "s": 35.41,
+   "e": 35.84
+  },
+  {
+   "chunk": 7,
+   "i": 8,
+   "text": "stopped.",
+   "n": "stopped",
+   "s": 35.84,
+   "e": 36.25
+  },
+  {
+   "chunk": 7,
+   "i": 9,
+   "text": "Until",
+   "n": "until",
+   "s": 36.7,
+   "e": 37.15
+  },
+  {
+   "chunk": 7,
+   "i": 10,
+   "text": "the",
+   "n": "the",
+   "s": 37.15,
+   "e": 37.22
+  },
+  {
+   "chunk": 7,
+   "i": 11,
+   "text": "hair",
+   "n": "hair",
+   "s": 37.22,
+   "e": 37.33
+  },
+  {
+   "chunk": 7,
+   "i": 12,
+   "text": "grew",
+   "n": "grew",
+   "s": 37.33,
+   "e": 37.48
+  },
+  {
+   "chunk": 7,
+   "i": 13,
+   "text": "back.",
+   "n": "back",
+   "s": 37.48,
+   "e": 37.74
+  },
+  {
+   "chunk": 8,
+   "i": 0,
+   "text": "But",
+   "n": "but",
+   "s": 38.31,
+   "e": 38.74
+  },
+  {
+   "chunk": 8,
+   "i": 1,
+   "text": "it",
+   "n": "it",
+   "s": 38.74,
+   "e": 38.83
+  },
+  {
+   "chunk": 8,
+   "i": 2,
+   "text": "gets",
+   "n": "gets",
+   "s": 38.83,
+   "e": 39.25
+  },
+  {
+   "chunk": 8,
+   "i": 3,
+   "text": "worse.",
+   "n": "worse",
+   "s": 39.25,
+   "e": 39.59
+  },
+  {
+   "chunk": 8,
+   "i": 4,
+   "text": "That",
+   "n": "that",
+   "s": 40.07,
+   "e": 40.26
+  },
+  {
+   "chunk": 8,
+   "i": 5,
+   "text": "hole",
+   "n": "hole",
+   "s": 40.26,
+   "e": 40.62
+  },
+  {
+   "chunk": 8,
+   "i": 6,
+   "text": "is",
+   "n": "is",
+   "s": 40.77,
+   "e": 40.88
+  },
+  {
+   "chunk": 8,
+   "i": 7,
+   "text": "the",
+   "n": "the",
+   "s": 40.88,
+   "e": 40.95
+  },
+  {
+   "chunk": 8,
+   "i": 8,
+   "text": "one",
+   "n": "one",
+   "s": 40.95,
+   "e": 41.22
+  },
+  {
+   "chunk": 8,
+   "i": 9,
+   "text": "spot",
+   "n": "spot",
+   "s": 41.22,
+   "e": 41.53
+  },
+  {
+   "chunk": 8,
+   "i": 10,
+   "text": "almost",
+   "n": "almost",
+   "s": 41.53,
+   "e": 41.95
+  },
+  {
+   "chunk": 8,
+   "i": 11,
+   "text": "nobody",
+   "n": "nobody",
+   "s": 41.95,
+   "e": 42.44
+  },
+  {
+   "chunk": 8,
+   "i": 12,
+   "text": "scrubs.",
+   "n": "scrubs",
+   "s": 42.44,
+   "e": 42.93
+  },
+  {
+   "chunk": 9,
+   "i": 0,
+   "text": "When",
+   "n": "when",
+   "s": 43.58,
+   "e": 43.7
+  },
+  {
+   "chunk": 9,
+   "i": 1,
+   "text": "researchers",
+   "n": "researchers",
+   "s": 43.7,
+   "e": 44.16
+  },
+  {
+   "chunk": 9,
+   "i": 2,
+   "text": "swabbed",
+   "n": "swabbed",
+   "s": 44.16,
+   "e": 44.51
+  },
+  {
+   "chunk": 9,
+   "i": 3,
+   "text": "sixty",
+   "n": "sixty",
+   "s": 44.51,
+   "e": 44.99
+  },
+  {
+   "chunk": 9,
+   "i": 4,
+   "text": "belly",
+   "n": "belly",
+   "s": 44.99,
+   "e": 45.21
+  },
+  {
+   "chunk": 9,
+   "i": 5,
+   "text": "buttons,",
+   "n": "buttons",
+   "s": 45.21,
+   "e": 45.54
+  },
+  {
+   "chunk": 9,
+   "i": 6,
+   "text": "they",
+   "n": "they",
+   "s": 45.79,
+   "e": 45.91
+  },
+  {
+   "chunk": 9,
+   "i": 7,
+   "text": "found",
+   "n": "found",
+   "s": 45.91,
+   "e": 46.24
+  },
+  {
+   "chunk": 9,
+   "i": 8,
+   "text": "two",
+   "n": "two",
+   "s": 46.24,
+   "e": 46.49
+  },
+  {
+   "chunk": 9,
+   "i": 9,
+   "text": "thousand",
+   "n": "thousand",
+   "s": 46.49,
+   "e": 46.89
+  },
+  {
+   "chunk": 9,
+   "i": 10,
+   "text": "three",
+   "n": "three",
+   "s": 46.89,
+   "e": 47.08
+  },
+  {
+   "chunk": 9,
+   "i": 11,
+   "text": "hundred",
+   "n": "hundred",
+   "s": 47.08,
+   "e": 47.34
+  },
+  {
+   "chunk": 9,
+   "i": 12,
+   "text": "sixty",
+   "n": "sixty",
+   "s": 47.34,
+   "e": 47.79
+  },
+  {
+   "chunk": 9,
+   "i": 13,
+   "text": "eight",
+   "n": "eight",
+   "s": 47.79,
+   "e": 47.92
+  },
+  {
+   "chunk": 9,
+   "i": 14,
+   "text": "kinds",
+   "n": "kinds",
+   "s": 47.92,
+   "e": 48.23
+  },
+  {
+   "chunk": 9,
+   "i": 15,
+   "text": "of",
+   "n": "of",
+   "s": 48.23,
+   "e": 48.29
+  },
+  {
+   "chunk": 9,
+   "i": 16,
+   "text": "bacteria.",
+   "n": "bacteria",
+   "s": 48.29,
+   "e": 48.83
+  },
+  {
+   "chunk": 10,
+   "i": 0,
+   "text": "Around",
+   "n": "around",
+   "s": 49.25,
+   "e": 49.47
+  },
+  {
+   "chunk": 10,
+   "i": 1,
+   "text": "fourteen",
+   "n": "fourteen",
+   "s": 49.47,
+   "e": 49.84
+  },
+  {
+   "chunk": 10,
+   "i": 2,
+   "text": "hundred",
+   "n": "hundred",
+   "s": 49.84,
+   "e": 50.26
+  },
+  {
+   "chunk": 10,
+   "i": 3,
+   "text": "might",
+   "n": "might",
+   "s": 50.26,
+   "e": 50.49
+  },
+  {
+   "chunk": 10,
+   "i": 4,
+   "text": "be",
+   "n": "be",
+   "s": 50.49,
+   "e": 50.68
+  },
+  {
+   "chunk": 10,
+   "i": 5,
+   "text": "new",
+   "n": "new",
+   "s": 50.68,
+   "e": 50.95
+  },
+  {
+   "chunk": 10,
+   "i": 6,
+   "text": "to",
+   "n": "to",
+   "s": 50.95,
+   "e": 51.03
+  },
+  {
+   "chunk": 10,
+   "i": 7,
+   "text": "science.",
+   "n": "science",
+   "s": 51.03,
+   "e": 51.48
+  },
+  {
+   "chunk": 11,
+   "i": 0,
+   "text": "One",
+   "n": "one",
+   "s": 52.17,
+   "e": 52.42
+  },
+  {
+   "chunk": 11,
+   "i": 1,
+   "text": "man",
+   "n": "man",
+   "s": 52.42,
+   "e": 52.65
+  },
+  {
+   "chunk": 11,
+   "i": 2,
+   "text": "carried",
+   "n": "carried",
+   "s": 52.65,
+   "e": 52.88
+  },
+  {
+   "chunk": 11,
+   "i": 3,
+   "text": "a",
+   "n": "a",
+   "s": 52.88,
+   "e": 52.92
+  },
+  {
+   "chunk": 11,
+   "i": 4,
+   "text": "microbe",
+   "n": "microbe",
+   "s": 52.92,
+   "e": 53.31
+  },
+  {
+   "chunk": 11,
+   "i": 5,
+   "text": "that",
+   "n": "that",
+   "s": 53.31,
+   "e": 53.41
+  },
+  {
+   "chunk": 11,
+   "i": 6,
+   "text": "had",
+   "n": "had",
+   "s": 53.41,
+   "e": 53.52
+  },
+  {
+   "chunk": 11,
+   "i": 7,
+   "text": "only",
+   "n": "only",
+   "s": 53.52,
+   "e": 53.91
+  },
+  {
+   "chunk": 11,
+   "i": 8,
+   "text": "ever",
+   "n": "ever",
+   "s": 54.03,
+   "e": 54.23
+  },
+  {
+   "chunk": 11,
+   "i": 9,
+   "text": "been",
+   "n": "been",
+   "s": 54.23,
+   "e": 54.4
+  },
+  {
+   "chunk": 11,
+   "i": 10,
+   "text": "found",
+   "n": "found",
+   "s": 54.4,
+   "e": 54.66
+  },
+  {
+   "chunk": 11,
+   "i": 11,
+   "text": "in",
+   "n": "in",
+   "s": 54.66,
+   "e": 54.75
+  },
+  {
+   "chunk": 11,
+   "i": 12,
+   "text": "Japan.",
+   "n": "japan",
+   "s": 54.75,
+   "e": 55.17
+  },
+  {
+   "chunk": 11,
+   "i": 13,
+   "text": "He",
+   "n": "he",
+   "s": 55.56,
+   "e": 55.8
+  },
+  {
+   "chunk": 11,
+   "i": 14,
+   "text": "had",
+   "n": "had",
+   "s": 56.07,
+   "e": 56.33
+  },
+  {
+   "chunk": 11,
+   "i": 15,
+   "text": "never",
+   "n": "never",
+   "s": 56.33,
+   "e": 56.58
+  },
+  {
+   "chunk": 11,
+   "i": 16,
+   "text": "been",
+   "n": "been",
+   "s": 56.58,
+   "e": 56.71
+  },
+  {
+   "chunk": 11,
+   "i": 17,
+   "text": "to",
+   "n": "to",
+   "s": 56.71,
+   "e": 56.77
+  },
+  {
+   "chunk": 11,
+   "i": 18,
+   "text": "Japan.",
+   "n": "japan",
+   "s": 56.77,
+   "e": 57.14
+  },
+  {
+   "chunk": 12,
+   "i": 0,
+   "text": "So",
+   "n": "so",
+   "s": 57.87,
+   "e": 58.07
+  },
+  {
+   "chunk": 12,
+   "i": 1,
+   "text": "you're",
+   "n": "you're",
+   "s": 58.26,
+   "e": 58.39
+  },
+  {
+   "chunk": 12,
+   "i": 2,
+   "text": "growing",
+   "n": "growing",
+   "s": 58.39,
+   "e": 58.68
+  },
+  {
+   "chunk": 12,
+   "i": 3,
+   "text": "a",
+   "n": "a",
+   "s": 58.68,
+   "e": 58.71
+  },
+  {
+   "chunk": 12,
+   "i": 4,
+   "text": "sweater",
+   "n": "sweater",
+   "s": 58.71,
+   "e": 59.23
+  },
+  {
+   "chunk": 12,
+   "i": 5,
+   "text": "and",
+   "n": "and",
+   "s": 59.23,
+   "e": 59.58
+  },
+  {
+   "chunk": 12,
+   "i": 6,
+   "text": "a",
+   "n": "a",
+   "s": 59.58,
+   "e": 59.64
+  },
+  {
+   "chunk": 12,
+   "i": 7,
+   "text": "jungle.",
+   "n": "jungle",
+   "s": 59.64,
+   "e": 60.1
+  },
+  {
+   "chunk": 12,
+   "i": 8,
+   "text": "Next",
+   "n": "next",
+   "s": 60.65,
+   "e": 60.87
+  },
+  {
+   "chunk": 12,
+   "i": 9,
+   "text": "time",
+   "n": "time",
+   "s": 60.87,
+   "e": 61.13
+  },
+  {
+   "chunk": 12,
+   "i": 10,
+   "text": "you",
+   "n": "you",
+   "s": 61.13,
+   "e": 61.24
+  },
+  {
+   "chunk": 12,
+   "i": 11,
+   "text": "find",
+   "n": "find",
+   "s": 61.24,
+   "e": 61.47
+  },
+  {
+   "chunk": 12,
+   "i": 12,
+   "text": "that",
+   "n": "that",
+   "s": 61.47,
+   "e": 61.61
+  },
+  {
+   "chunk": 12,
+   "i": 13,
+   "text": "fuzz,",
+   "n": "fuzz",
+   "s": 61.61,
+   "e": 61.96
+  },
+  {
+   "chunk": 12,
+   "i": 14,
+   "text": "remember:",
+   "n": "remember",
+   "s": 62.33,
+   "e": 62.73
+  },
+  {
+   "chunk": 13,
+   "i": 0,
+   "text": "Follow",
+   "n": "follow",
+   "s": 63.26,
+   "e": 63.6
+  },
+  {
+   "chunk": 13,
+   "i": 1,
+   "text": "for",
+   "n": "for",
+   "s": 63.6,
+   "e": 63.79
+  },
+  {
+   "chunk": 13,
+   "i": 2,
+   "text": "a",
+   "n": "a",
+   "s": 63.79,
+   "e": 63.88
+  },
+  {
+   "chunk": 13,
+   "i": 3,
+   "text": "new",
+   "n": "new",
+   "s": 63.88,
+   "e": 64.27
+  },
+  {
+   "chunk": 13,
+   "i": 4,
+   "text": "unhinged",
+   "n": "unhinged",
+   "s": 64.27,
+   "e": 64.84
+  },
+  {
+   "chunk": 13,
+   "i": 5,
+   "text": "fact",
+   "n": "fact",
+   "s": 64.84,
+   "e": 65.26
+  },
+  {
+   "chunk": 13,
+   "i": 6,
+   "text": "every",
+   "n": "every",
+   "s": 65.26,
+   "e": 65.52
+  },
+  {
+   "chunk": 13,
+   "i": 7,
+   "text": "day.",
+   "n": "day",
+   "s": 65.52,
+   "e": 65.73
+  }
+ ],
+ "lines": [
+  "Your belly hair is harvesting your shirt, one fiber at a time.",
+  "That lint in your belly button? Not random.",
+  "A chemist in Vienna collected five hundred and three pieces of navel lint. Over three years.",
+  "Mostly cotton fibers from clothes, mixed with dead skin, sweat, fat and dust.",
+  "Here's the insane part. Belly hair is covered in tiny scales that act like barbed hooks.",
+  "Every time you move, those scales snag fibers off your shirt.",
+  "And belly hair often grows in circles around the navel, so it funnels everything into the hole.",
+  "When he shaved his stomach, the lint basically stopped. Until the hair grew back.",
+  "But it gets worse. That hole is the one spot almost nobody scrubs.",
+  "When researchers swabbed sixty belly buttons, they found two thousand three hundred sixty eight kinds of bacteria.",
+  "Around fourteen hundred might be new to science.",
+  "One man carried a microbe that had only ever been found in Japan. He had never been to Japan.",
+  "So you're growing a sweater and a jungle. Next time you find that fuzz, remember:",
+  "Follow for a new unhinged fact every day."
+ ]
+}
