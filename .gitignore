@@ -1,0 +1,6 @@
+work/*.mp4
+work/*.png
+work/audio/
+work/preview/
+work/segs.txt
+work/__pycache__/

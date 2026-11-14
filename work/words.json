@@ -1,0 +1,1566 @@
+{
+ "words": [
+  {
+   "chunk": 0,
+   "i": 0,
+   "text": "The",
+   "n": "the",
+   "s": 0.1,
+   "e": 0.25
+  },
+  {
+   "chunk": 0,
+   "i": 1,
+   "text": "moth",
+   "n": "moth",
+   "s": 0.25,
+   "e": 0.57
+  },
+  {
+   "chunk": 0,
+   "i": 2,
+   "text": "in",
+   "n": "in",
+   "s": 0.57,
+   "e": 0.68
+  },
+  {
+   "chunk": 0,
+   "i": 3,
+   "text": "your",
+   "n": "your",
+   "s": 0.68,
+   "e": 0.8
+  },
+  {
+   "chunk": 0,
+   "i": 4,
+   "text": "closet",
+   "n": "closet",
+   "s": 0.8,
+   "e": 1.34
+  },
+  {
+   "chunk": 0,
+   "i": 5,
+   "text": "never",
+   "n": "never",
+   "s": 1.34,
+   "e": 1.65
+  },
+  {
+   "chunk": 0,
+   "i": 6,
+   "text": "ate",
+   "n": "ate",
+   "s": 1.65,
+   "e": 1.77
+  },
+  {
+   "chunk": 0,
+   "i": 7,
+   "text": "your",
+   "n": "your",
+   "s": 1.77,
+   "e": 1.9
+  },
+  {
+   "chunk": 0,
+   "i": 8,
+   "text": "sweater.",
+   "n": "sweater",
+   "s": 1.9,
+   "e": 2.3
+  },
+  {
+   "chunk": 0,
+   "i": 9,
+   "text": "Its",
+   "n": "its",
+   "s": 2.61,
+   "e": 2.78
+  },
+  {
+   "chunk": 0,
+   "i": 10,
+   "text": "babies",
+   "n": "babies",
+   "s": 2.78,
+   "e": 3.41
+  },
+  {
+   "chunk": 0,
+   "i": 11,
+   "text": "did.",
+   "n": "did",
+   "s": 3.41,
+   "e": 3.69
+  },
+  {
+   "chunk": 1,
+   "i": 0,
+   "text": "Adult",
+   "n": "adult",
+   "s": 4.12,
+   "e": 4.48
+  },
+  {
+   "chunk": 1,
+   "i": 1,
+   "text": "clothes",
+   "n": "clothes",
+   "s": 4.48,
+   "e": 4.8
+  },
+  {
+   "chunk": 1,
+   "i": 2,
+   "text": "moths",
+   "n": "moths",
+   "s": 4.8,
+   "e": 5.15
+  },
+  {
+   "chunk": 1,
+   "i": 3,
+   "text": "have",
+   "n": "have",
+   "s": 5.15,
+   "e": 5.3
+  },
+  {
+   "chunk": 1,
+   "i": 4,
+   "text": "shrunken",
+   "n": "shrunken",
+   "s": 5.3,
+   "e": 5.79
+  },
+  {
+   "chunk": 1,
+   "i": 5,
+   "text": "mouthparts.",
+   "n": "mouthparts",
+   "s": 5.79,
+   "e": 6.35
+  },
+  {
+   "chunk": 1,
+   "i": 6,
+   "text": "They",
+   "n": "they",
+   "s": 6.35,
+   "e": 6.53
+  },
+  {
+   "chunk": 1,
+   "i": 7,
+   "text": "never",
+   "n": "never",
+   "s": 6.53,
+   "e": 6.78
+  },
+  {
+   "chunk": 1,
+   "i": 8,
+   "text": "eat",
+   "n": "eat",
+   "s": 6.78,
+   "e": 6.95
+  },
+  {
+   "chunk": 1,
+   "i": 9,
+   "text": "a",
+   "n": "a",
+   "s": 6.95,
+   "e": 7.02
+  },
+  {
+   "chunk": 1,
+   "i": 10,
+   "text": "single",
+   "n": "single",
+   "s": 7.02,
+   "e": 7.53
+  },
+  {
+   "chunk": 1,
+   "i": 11,
+   "text": "thing.",
+   "n": "thing",
+   "s": 7.53,
+   "e": 8.07
+  },
+  {
+   "chunk": 2,
+   "i": 0,
+   "text": "They",
+   "n": "they",
+   "s": 8.07,
+   "e": 8.32
+  },
+  {
+   "chunk": 2,
+   "i": 1,
+   "text": "just",
+   "n": "just",
+   "s": 8.32,
+   "e": 8.5
+  },
+  {
+   "chunk": 2,
+   "i": 2,
+   "text": "mate,",
+   "n": "mate",
+   "s": 8.5,
+   "e": 9.05
+  },
+  {
+   "chunk": 2,
+   "i": 3,
+   "text": "lay",
+   "n": "lay",
+   "s": 9.05,
+   "e": 9.25
+  },
+  {
+   "chunk": 2,
+   "i": 4,
+   "text": "dozens",
+   "n": "dozens",
+   "s": 9.25,
+   "e": 9.95
+  },
+  {
+   "chunk": 2,
+   "i": 5,
+   "text": "of",
+   "n": "of",
+   "s": 9.95,
+   "e": 10.03
+  },
+  {
+   "chunk": 2,
+   "i": 6,
+   "text": "tiny",
+   "n": "tiny",
+   "s": 10.03,
+   "e": 10.48
+  },
+  {
+   "chunk": 2,
+   "i": 7,
+   "text": "eggs",
+   "n": "eggs",
+   "s": 10.48,
+   "e": 10.71
+  },
+  {
+   "chunk": 2,
+   "i": 8,
+   "text": "on",
+   "n": "on",
+   "s": 10.71,
+   "e": 10.8
+  },
+  {
+   "chunk": 2,
+   "i": 9,
+   "text": "your",
+   "n": "your",
+   "s": 10.8,
+   "e": 10.91
+  },
+  {
+   "chunk": 2,
+   "i": 10,
+   "text": "clothes,",
+   "n": "clothes",
+   "s": 10.91,
+   "e": 11.39
+  },
+  {
+   "chunk": 2,
+   "i": 11,
+   "text": "and",
+   "n": "and",
+   "s": 11.39,
+   "e": 11.55
+  },
+  {
+   "chunk": 2,
+   "i": 12,
+   "text": "die.",
+   "n": "die",
+   "s": 11.55,
+   "e": 11.8
+  },
+  {
+   "chunk": 3,
+   "i": 0,
+   "text": "Those",
+   "n": "those",
+   "s": 12.29,
+   "e": 12.53
+  },
+  {
+   "chunk": 3,
+   "i": 1,
+   "text": "eggs",
+   "n": "eggs",
+   "s": 12.53,
+   "e": 12.79
+  },
+  {
+   "chunk": 3,
+   "i": 2,
+   "text": "hatch",
+   "n": "hatch",
+   "s": 12.79,
+   "e": 13.12
+  },
+  {
+   "chunk": 3,
+   "i": 3,
+   "text": "into",
+   "n": "into",
+   "s": 13.12,
+   "e": 13.29
+  },
+  {
+   "chunk": 3,
+   "i": 4,
+   "text": "little",
+   "n": "little",
+   "s": 13.29,
+   "e": 13.53
+  },
+  {
+   "chunk": 3,
+   "i": 5,
+   "text": "caterpillars,",
+   "n": "caterpillars",
+   "s": 13.53,
+   "e": 14.23
+  },
+  {
+   "chunk": 3,
+   "i": 6,
+   "text": "and",
+   "n": "and",
+   "s": 14.23,
+   "e": 14.59
+  },
+  {
+   "chunk": 3,
+   "i": 7,
+   "text": "they're",
+   "n": "they're",
+   "s": 14.59,
+   "e": 14.86
+  },
+  {
+   "chunk": 3,
+   "i": 8,
+   "text": "the",
+   "n": "the",
+   "s": 14.86,
+   "e": 14.96
+  },
+  {
+   "chunk": 3,
+   "i": 9,
+   "text": "ones",
+   "n": "ones",
+   "s": 14.96,
+   "e": 15.27
+  },
+  {
+   "chunk": 3,
+   "i": 10,
+   "text": "chewing",
+   "n": "chewing",
+   "s": 15.27,
+   "e": 15.51
+  },
+  {
+   "chunk": 3,
+   "i": 11,
+   "text": "the",
+   "n": "the",
+   "s": 15.51,
+   "e": 15.58
+  },
+  {
+   "chunk": 3,
+   "i": 12,
+   "text": "holes.",
+   "n": "holes",
+   "s": 15.58,
+   "e": 15.97
+  },
+  {
+   "chunk": 4,
+   "i": 0,
+   "text": "But",
+   "n": "but",
+   "s": 16.25,
+   "e": 16.57
+  },
+  {
+   "chunk": 4,
+   "i": 1,
+   "text": "here's",
+   "n": "here's",
+   "s": 16.57,
+   "e": 16.8
+  },
+  {
+   "chunk": 4,
+   "i": 2,
+   "text": "the",
+   "n": "the",
+   "s": 16.8,
+   "e": 16.91
+  },
+  {
+   "chunk": 4,
+   "i": 3,
+   "text": "insane",
+   "n": "insane",
+   "s": 16.91,
+   "e": 17.26
+  },
+  {
+   "chunk": 4,
+   "i": 4,
+   "text": "part.",
+   "n": "part",
+   "s": 17.26,
+   "e": 17.58
+  },
+  {
+   "chunk": 4,
+   "i": 5,
+   "text": "They're",
+   "n": "they're",
+   "s": 17.58,
+   "e": 17.93
+  },
+  {
+   "chunk": 4,
+   "i": 6,
+   "text": "eating",
+   "n": "eating",
+   "s": 17.93,
+   "e": 18.24
+  },
+  {
+   "chunk": 4,
+   "i": 7,
+   "text": "keratin.",
+   "n": "keratin",
+   "s": 18.24,
+   "e": 19.01
+  },
+  {
+   "chunk": 5,
+   "i": 0,
+   "text": "That's",
+   "n": "that's",
+   "s": 19.34,
+   "e": 19.55
+  },
+  {
+   "chunk": 5,
+   "i": 1,
+   "text": "the",
+   "n": "the",
+   "s": 19.55,
+   "e": 19.63
+  },
+  {
+   "chunk": 5,
+   "i": 2,
+   "text": "protein",
+   "n": "protein",
+   "s": 19.63,
+   "e": 20.06
+  },
+  {
+   "chunk": 5,
+   "i": 3,
+   "text": "in",
+   "n": "in",
+   "s": 20.06,
+   "e": 20.19
+  },
+  {
+   "chunk": 5,
+   "i": 4,
+   "text": "wool,",
+   "n": "wool",
+   "s": 20.19,
+   "e": 20.56
+  },
+  {
+   "chunk": 5,
+   "i": 5,
+   "text": "fur,",
+   "n": "fur",
+   "s": 20.56,
+   "e": 21.04
+  },
+  {
+   "chunk": 5,
+   "i": 6,
+   "text": "feathers,",
+   "n": "feathers",
+   "s": 21.04,
+   "e": 21.56
+  },
+  {
+   "chunk": 5,
+   "i": 7,
+   "text": "and",
+   "n": "and",
+   "s": 21.56,
+   "e": 21.77
+  },
+  {
+   "chunk": 5,
+   "i": 8,
+   "text": "the",
+   "n": "the",
+   "s": 21.77,
+   "e": 21.85
+  },
+  {
+   "chunk": 5,
+   "i": 9,
+   "text": "hair",
+   "n": "hair",
+   "s": 21.85,
+   "e": 22.14
+  },
+  {
+   "chunk": 5,
+   "i": 10,
+   "text": "on",
+   "n": "on",
+   "s": 22.14,
+   "e": 22.24
+  },
+  {
+   "chunk": 5,
+   "i": 11,
+   "text": "your",
+   "n": "your",
+   "s": 22.24,
+   "e": 22.38
+  },
+  {
+   "chunk": 5,
+   "i": 12,
+   "text": "head.",
+   "n": "head",
+   "s": 22.38,
+   "e": 22.8
+  },
+  {
+   "chunk": 6,
+   "i": 0,
+   "text": "Keratin",
+   "n": "keratin",
+   "s": 23.29,
+   "e": 23.71
+  },
+  {
+   "chunk": 6,
+   "i": 1,
+   "text": "is",
+   "n": "is",
+   "s": 23.71,
+   "e": 23.85
+  },
+  {
+   "chunk": 6,
+   "i": 2,
+   "text": "locked",
+   "n": "locked",
+   "s": 23.85,
+   "e": 24.28
+  },
+  {
+   "chunk": 6,
+   "i": 3,
+   "text": "together",
+   "n": "together",
+   "s": 24.28,
+   "e": 24.6
+  },
+  {
+   "chunk": 6,
+   "i": 4,
+   "text": "with",
+   "n": "with",
+   "s": 24.6,
+   "e": 24.79
+  },
+  {
+   "chunk": 6,
+   "i": 5,
+   "text": "sulfur",
+   "n": "sulfur",
+   "s": 24.79,
+   "e": 25.21
+  },
+  {
+   "chunk": 6,
+   "i": 6,
+   "text": "bridges,",
+   "n": "bridges",
+   "s": 25.21,
+   "e": 25.66
+  },
+  {
+   "chunk": 6,
+   "i": 7,
+   "text": "so",
+   "n": "so",
+   "s": 25.66,
+   "e": 25.8
+  },
+  {
+   "chunk": 6,
+   "i": 8,
+   "text": "almost",
+   "n": "almost",
+   "s": 25.8,
+   "e": 26.25
+  },
+  {
+   "chunk": 6,
+   "i": 9,
+   "text": "nothing",
+   "n": "nothing",
+   "s": 26.25,
+   "e": 26.81
+  },
+  {
+   "chunk": 6,
+   "i": 10,
+   "text": "on",
+   "n": "on",
+   "s": 26.81,
+   "e": 26.94
+  },
+  {
+   "chunk": 6,
+   "i": 11,
+   "text": "Earth",
+   "n": "earth",
+   "s": 26.94,
+   "e": 27.12
+  },
+  {
+   "chunk": 6,
+   "i": 12,
+   "text": "can",
+   "n": "can",
+   "s": 27.12,
+   "e": 27.25
+  },
+  {
+   "chunk": 6,
+   "i": 13,
+   "text": "digest",
+   "n": "digest",
+   "s": 27.25,
+   "e": 27.68
+  },
+  {
+   "chunk": 6,
+   "i": 14,
+   "text": "it.",
+   "n": "it",
+   "s": 27.68,
+   "e": 27.85
+  },
+  {
+   "chunk": 7,
+   "i": 0,
+   "text": "These",
+   "n": "these",
+   "s": 28.24,
+   "e": 28.53
+  },
+  {
+   "chunk": 7,
+   "i": 1,
+   "text": "larvae",
+   "n": "larvae",
+   "s": 28.53,
+   "e": 29.0
+  },
+  {
+   "chunk": 7,
+   "i": 2,
+   "text": "can.",
+   "n": "can",
+   "s": 29.0,
+   "e": 29.59
+  },
+  {
+   "chunk": 7,
+   "i": 3,
+   "text": "Their",
+   "n": "their",
+   "s": 29.59,
+   "e": 29.85
+  },
+  {
+   "chunk": 7,
+   "i": 4,
+   "text": "guts",
+   "n": "guts",
+   "s": 29.85,
+   "e": 30.17
+  },
+  {
+   "chunk": 7,
+   "i": 5,
+   "text": "are",
+   "n": "are",
+   "s": 30.17,
+   "e": 30.38
+  },
+  {
+   "chunk": 7,
+   "i": 6,
+   "text": "brutally",
+   "n": "brutally",
+   "s": 30.38,
+   "e": 31.05
+  },
+  {
+   "chunk": 7,
+   "i": 7,
+   "text": "alkaline,",
+   "n": "alkaline",
+   "s": 31.05,
+   "e": 31.68
+  },
+  {
+   "chunk": 7,
+   "i": 8,
+   "text": "around",
+   "n": "around",
+   "s": 31.68,
+   "e": 31.99
+  },
+  {
+   "chunk": 7,
+   "i": 9,
+   "text": "pH",
+   "n": "ph",
+   "s": 31.99,
+   "e": 32.44
+  },
+  {
+   "chunk": 7,
+   "i": 10,
+   "text": "ten,",
+   "n": "ten",
+   "s": 32.44,
+   "e": 32.87
+  },
+  {
+   "chunk": 7,
+   "i": 11,
+   "text": "and",
+   "n": "and",
+   "s": 32.87,
+   "e": 33.29
+  },
+  {
+   "chunk": 7,
+   "i": 12,
+   "text": "loaded",
+   "n": "loaded",
+   "s": 33.29,
+   "e": 33.77
+  },
+  {
+   "chunk": 7,
+   "i": 13,
+   "text": "with",
+   "n": "with",
+   "s": 33.77,
+   "e": 33.91
+  },
+  {
+   "chunk": 7,
+   "i": 14,
+   "text": "chemistry",
+   "n": "chemistry",
+   "s": 33.91,
+   "e": 34.31
+  },
+  {
+   "chunk": 7,
+   "i": 15,
+   "text": "that",
+   "n": "that",
+   "s": 34.31,
+   "e": 34.45
+  },
+  {
+   "chunk": 7,
+   "i": 16,
+   "text": "snaps",
+   "n": "snaps",
+   "s": 34.45,
+   "e": 34.93
+  },
+  {
+   "chunk": 7,
+   "i": 17,
+   "text": "those",
+   "n": "those",
+   "s": 34.93,
+   "e": 35.11
+  },
+  {
+   "chunk": 7,
+   "i": 18,
+   "text": "sulfur",
+   "n": "sulfur",
+   "s": 35.11,
+   "e": 35.39
+  },
+  {
+   "chunk": 7,
+   "i": 19,
+   "text": "bridges.",
+   "n": "bridges",
+   "s": 35.39,
+   "e": 35.78
+  },
+  {
+   "chunk": 8,
+   "i": 0,
+   "text": "Scientists",
+   "n": "scientists",
+   "s": 36.11,
+   "e": 36.71
+  },
+  {
+   "chunk": 8,
+   "i": 1,
+   "text": "still",
+   "n": "still",
+   "s": 36.71,
+   "e": 37.02
+  },
+  {
+   "chunk": 8,
+   "i": 2,
+   "text": "aren't",
+   "n": "aren't",
+   "s": 37.02,
+   "e": 37.27
+  },
+  {
+   "chunk": 8,
+   "i": 3,
+   "text": "totally",
+   "n": "totally",
+   "s": 37.27,
+   "e": 37.65
+  },
+  {
+   "chunk": 8,
+   "i": 4,
+   "text": "sure",
+   "n": "sure",
+   "s": 37.65,
+   "e": 37.86
+  },
+  {
+   "chunk": 8,
+   "i": 5,
+   "text": "how",
+   "n": "how",
+   "s": 37.86,
+   "e": 38.01
+  },
+  {
+   "chunk": 8,
+   "i": 6,
+   "text": "they",
+   "n": "they",
+   "s": 38.01,
+   "e": 38.11
+  },
+  {
+   "chunk": 8,
+   "i": 7,
+   "text": "pull",
+   "n": "pull",
+   "s": 38.11,
+   "e": 38.31
+  },
+  {
+   "chunk": 8,
+   "i": 8,
+   "text": "it",
+   "n": "it",
+   "s": 38.31,
+   "e": 38.37
+  },
+  {
+   "chunk": 8,
+   "i": 9,
+   "text": "off.",
+   "n": "off",
+   "s": 38.37,
+   "e": 38.62
+  },
+  {
+   "chunk": 9,
+   "i": 0,
+   "text": "And",
+   "n": "and",
+   "s": 39.27,
+   "e": 39.38
+  },
+  {
+   "chunk": 9,
+   "i": 1,
+   "text": "it",
+   "n": "it",
+   "s": 39.38,
+   "e": 39.44
+  },
+  {
+   "chunk": 9,
+   "i": 2,
+   "text": "gets",
+   "n": "gets",
+   "s": 39.44,
+   "e": 39.61
+  },
+  {
+   "chunk": 9,
+   "i": 3,
+   "text": "worse.",
+   "n": "worse",
+   "s": 39.61,
+   "e": 39.96
+  },
+  {
+   "chunk": 9,
+   "i": 4,
+   "text": "They",
+   "n": "they",
+   "s": 39.96,
+   "e": 40.21
+  },
+  {
+   "chunk": 9,
+   "i": 5,
+   "text": "love",
+   "n": "love",
+   "s": 40.21,
+   "e": 40.51
+  },
+  {
+   "chunk": 9,
+   "i": 6,
+   "text": "your",
+   "n": "your",
+   "s": 40.51,
+   "e": 40.63
+  },
+  {
+   "chunk": 9,
+   "i": 7,
+   "text": "sweat.",
+   "n": "sweat",
+   "s": 40.63,
+   "e": 41.3
+  },
+  {
+   "chunk": 10,
+   "i": 0,
+   "text": "Sweat,",
+   "n": "sweat",
+   "s": 41.3,
+   "e": 41.76
+  },
+  {
+   "chunk": 10,
+   "i": 1,
+   "text": "skin",
+   "n": "skin",
+   "s": 42.0,
+   "e": 42.35
+  },
+  {
+   "chunk": 10,
+   "i": 2,
+   "text": "flakes",
+   "n": "flakes",
+   "s": 42.35,
+   "e": 42.69
+  },
+  {
+   "chunk": 10,
+   "i": 3,
+   "text": "and",
+   "n": "and",
+   "s": 42.69,
+   "e": 42.82
+  },
+  {
+   "chunk": 10,
+   "i": 4,
+   "text": "food",
+   "n": "food",
+   "s": 42.82,
+   "e": 43.14
+  },
+  {
+   "chunk": 10,
+   "i": 5,
+   "text": "stains",
+   "n": "stains",
+   "s": 43.14,
+   "e": 43.53
+  },
+  {
+   "chunk": 10,
+   "i": 6,
+   "text": "draw",
+   "n": "draw",
+   "s": 43.53,
+   "e": 43.77
+  },
+  {
+   "chunk": 10,
+   "i": 7,
+   "text": "them",
+   "n": "them",
+   "s": 43.77,
+   "e": 43.93
+  },
+  {
+   "chunk": 10,
+   "i": 8,
+   "text": "in,",
+   "n": "in",
+   "s": 43.93,
+   "e": 44.13
+  },
+  {
+   "chunk": 10,
+   "i": 9,
+   "text": "so",
+   "n": "so",
+   "s": 44.37,
+   "e": 44.51
+  },
+  {
+   "chunk": 10,
+   "i": 10,
+   "text": "the",
+   "n": "the",
+   "s": 44.51,
+   "e": 44.61
+  },
+  {
+   "chunk": 10,
+   "i": 11,
+   "text": "dirty",
+   "n": "dirty",
+   "s": 44.61,
+   "e": 44.97
+  },
+  {
+   "chunk": 10,
+   "i": 12,
+   "text": "spots",
+   "n": "spots",
+   "s": 44.97,
+   "e": 45.34
+  },
+  {
+   "chunk": 10,
+   "i": 13,
+   "text": "get",
+   "n": "get",
+   "s": 45.34,
+   "e": 45.48
+  },
+  {
+   "chunk": 10,
+   "i": 14,
+   "text": "eaten",
+   "n": "eaten",
+   "s": 45.48,
+   "e": 45.73
+  },
+  {
+   "chunk": 10,
+   "i": 15,
+   "text": "first.",
+   "n": "first",
+   "s": 45.73,
+   "e": 46.09
+  },
+  {
+   "chunk": 11,
+   "i": 0,
+   "text": "That's",
+   "n": "that's",
+   "s": 46.43,
+   "e": 46.68
+  },
+  {
+   "chunk": 11,
+   "i": 1,
+   "text": "why",
+   "n": "why",
+   "s": 46.68,
+   "e": 46.8
+  },
+  {
+   "chunk": 11,
+   "i": 2,
+   "text": "the",
+   "n": "the",
+   "s": 46.8,
+   "e": 46.89
+  },
+  {
+   "chunk": 11,
+   "i": 3,
+   "text": "holes",
+   "n": "holes",
+   "s": 46.89,
+   "e": 47.22
+  },
+  {
+   "chunk": 11,
+   "i": 4,
+   "text": "hide",
+   "n": "hide",
+   "s": 47.22,
+   "e": 47.46
+  },
+  {
+   "chunk": 11,
+   "i": 5,
+   "text": "in",
+   "n": "in",
+   "s": 47.46,
+   "e": 47.59
+  },
+  {
+   "chunk": 11,
+   "i": 6,
+   "text": "armpits,",
+   "n": "armpits",
+   "s": 47.59,
+   "e": 48.2
+  },
+  {
+   "chunk": 11,
+   "i": 7,
+   "text": "collars",
+   "n": "collars",
+   "s": 48.2,
+   "e": 48.67
+  },
+  {
+   "chunk": 11,
+   "i": 8,
+   "text": "and",
+   "n": "and",
+   "s": 48.67,
+   "e": 48.76
+  },
+  {
+   "chunk": 11,
+   "i": 9,
+   "text": "folds.",
+   "n": "folds",
+   "s": 48.76,
+   "e": 49.17
+  },
+  {
+   "chunk": 12,
+   "i": 0,
+   "text": "Oh,",
+   "n": "oh",
+   "s": 49.7,
+   "e": 49.84
+  },
+  {
+   "chunk": 12,
+   "i": 1,
+   "text": "and",
+   "n": "and",
+   "s": 50.09,
+   "e": 50.21
+  },
+  {
+   "chunk": 12,
+   "i": 2,
+   "text": "that",
+   "n": "that",
+   "s": 50.21,
+   "e": 50.35
+  },
+  {
+   "chunk": 12,
+   "i": 3,
+   "text": "moth",
+   "n": "moth",
+   "s": 50.35,
+   "e": 50.67
+  },
+  {
+   "chunk": 12,
+   "i": 4,
+   "text": "fluttering",
+   "n": "fluttering",
+   "s": 50.67,
+   "e": 51.0
+  },
+  {
+   "chunk": 12,
+   "i": 5,
+   "text": "around",
+   "n": "around",
+   "s": 51.0,
+   "e": 51.19
+  },
+  {
+   "chunk": 12,
+   "i": 6,
+   "text": "your",
+   "n": "your",
+   "s": 51.19,
+   "e": 51.31
+  },
+  {
+   "chunk": 12,
+   "i": 7,
+   "text": "lamp?",
+   "n": "lamp",
+   "s": 51.31,
+   "e": 51.57
+  },
+  {
+   "chunk": 12,
+   "i": 8,
+   "text": "Probably",
+   "n": "probably",
+   "s": 51.87,
+   "e": 52.33
+  },
+  {
+   "chunk": 12,
+   "i": 9,
+   "text": "not",
+   "n": "not",
+   "s": 52.33,
+   "e": 52.79
+  },
+  {
+   "chunk": 12,
+   "i": 10,
+   "text": "one",
+   "n": "one",
+   "s": 52.79,
+   "e": 52.96
+  },
+  {
+   "chunk": 12,
+   "i": 11,
+   "text": "of",
+   "n": "of",
+   "s": 52.96,
+   "e": 53.04
+  },
+  {
+   "chunk": 12,
+   "i": 12,
+   "text": "them.",
+   "n": "them",
+   "s": 53.04,
+   "e": 53.23
+  },
+  {
+   "chunk": 13,
+   "i": 0,
+   "text": "Clothes",
+   "n": "clothes",
+   "s": 53.52,
+   "e": 53.85
+  },
+  {
+   "chunk": 13,
+   "i": 1,
+   "text": "moths",
+   "n": "moths",
+   "s": 53.85,
+   "e": 54.15
+  },
+  {
+   "chunk": 13,
+   "i": 2,
+   "text": "hate",
+   "n": "hate",
+   "s": 54.15,
+   "e": 54.6
+  },
+  {
+   "chunk": 13,
+   "i": 3,
+   "text": "light.",
+   "n": "light",
+   "s": 54.6,
+   "e": 54.93
+  },
+  {
+   "chunk": 13,
+   "i": 4,
+   "text": "They",
+   "n": "they",
+   "s": 55.16,
+   "e": 55.27
+  },
+  {
+   "chunk": 13,
+   "i": 5,
+   "text": "hide",
+   "n": "hide",
+   "s": 55.27,
+   "e": 55.56
+  },
+  {
+   "chunk": 13,
+   "i": 6,
+   "text": "in",
+   "n": "in",
+   "s": 55.56,
+   "e": 55.65
+  },
+  {
+   "chunk": 13,
+   "i": 7,
+   "text": "the",
+   "n": "the",
+   "s": 55.65,
+   "e": 55.71
+  },
+  {
+   "chunk": 13,
+   "i": 8,
+   "text": "dark,",
+   "n": "dark",
+   "s": 55.71,
+   "e": 56.15
+  },
+  {
+   "chunk": 13,
+   "i": 9,
+   "text": "right",
+   "n": "right",
+   "s": 56.15,
+   "e": 56.5
+  },
+  {
+   "chunk": 13,
+   "i": 10,
+   "text": "where",
+   "n": "where",
+   "s": 56.5,
+   "e": 56.67
+  },
+  {
+   "chunk": 13,
+   "i": 11,
+   "text": "your",
+   "n": "your",
+   "s": 56.67,
+   "e": 56.84
+  },
+  {
+   "chunk": 13,
+   "i": 12,
+   "text": "wool",
+   "n": "wool",
+   "s": 56.84,
+   "e": 57.08
+  },
+  {
+   "chunk": 13,
+   "i": 13,
+   "text": "lives.",
+   "n": "lives",
+   "s": 57.08,
+   "e": 57.42
+  },
+  {
+   "chunk": 14,
+   "i": 0,
+   "text": "So",
+   "n": "so",
+   "s": 57.84,
+   "e": 58.03
+  },
+  {
+   "chunk": 14,
+   "i": 1,
+   "text": "next",
+   "n": "next",
+   "s": 58.25,
+   "e": 58.46
+  },
+  {
+   "chunk": 14,
+   "i": 2,
+   "text": "time",
+   "n": "time",
+   "s": 58.46,
+   "e": 58.64
+  },
+  {
+   "chunk": 14,
+   "i": 3,
+   "text": "you",
+   "n": "you",
+   "s": 58.64,
+   "e": 58.72
+  },
+  {
+   "chunk": 14,
+   "i": 4,
+   "text": "blame",
+   "n": "blame",
+   "s": 58.72,
+   "e": 58.91
+  },
+  {
+   "chunk": 14,
+   "i": 5,
+   "text": "the",
+   "n": "the",
+   "s": 58.91,
+   "e": 58.98
+  },
+  {
+   "chunk": 14,
+   "i": 6,
+   "text": "moth,",
+   "n": "moth",
+   "s": 58.98,
+   "e": 59.26
+  },
+  {
+   "chunk": 14,
+   "i": 7,
+   "text": "remember:",
+   "n": "remember",
+   "s": 59.65,
+   "e": 60.09
+  },
+  {
+   "chunk": 15,
+   "i": 0,
+   "text": "Follow.",
+   "n": "follow",
+   "s": 60.48,
+   "e": 60.87
+  },
+  {
+   "chunk": 15,
+   "i": 1,
+   "text": "Tomorrow's",
+   "n": "tomorrow's",
+   "s": 61.19,
+   "e": 61.61
+  },
+  {
+   "chunk": 15,
+   "i": 2,
+   "text": "fact",
+   "n": "fact",
+   "s": 61.61,
+   "e": 61.88
+  },
+  {
+   "chunk": 15,
+   "i": 3,
+   "text": "crawls",
+   "n": "crawls",
+   "s": 61.88,
+   "e": 62.19
+  },
+  {
+   "chunk": 15,
+   "i": 4,
+   "text": "out",
+   "n": "out",
+   "s": 62.19,
+   "e": 62.29
+  },
+  {
+   "chunk": 15,
+   "i": 5,
+   "text": "of",
+   "n": "of",
+   "s": 62.29,
+   "e": 62.39
+  },
+  {
+   "chunk": 15,
+   "i": 6,
+   "text": "somewhere",
+   "n": "somewhere",
+   "s": 62.39,
+   "e": 62.79
+  },
+  {
+   "chunk": 15,
+   "i": 7,
+   "text": "worse.",
+   "n": "worse",
+   "s": 62.79,
+   "e": 63.37
+  }
+ ],
+ "lines": [
+  "The moth in your closet never ate your sweater. Its babies did.",
+  "Adult clothes moths have shrunken mouthparts. They never eat a single thing.",
+  "They just mate, lay dozens of tiny eggs on your clothes, and die.",
+  "Those eggs hatch into little caterpillars, and they're the ones chewing the holes.",
+  "But here's the insane part. They're eating keratin.",
+  "That's the protein in wool, fur, feathers, and the hair on your head.",
+  "Keratin is locked together with sulfur bridges, so almost nothing on Earth can digest it.",
+  "These larvae can. Their guts are brutally alkaline, around pH ten, and loaded with chemistry that snaps those sulfur bridges.",
+  "Scientists still aren't totally sure how they pull it off.",
+  "And it gets worse. They love your sweat.",
+  "Sweat, skin flakes and food stains draw them in, so the dirty spots get eaten first.",
+  "That's why the holes hide in armpits, collars and folds.",
+  "Oh, and that moth fluttering around your lamp? Probably not one of them.",
+  "Clothes moths hate light. They hide in the dark, right where your wool lives.",
+  "So next time you blame the moth, remember:",
+  "Follow. Tomorrow's fact crawls out of somewhere worse."
+ ]
+}
